@@ -112,3 +112,36 @@
 [submodule "vim/bundle/javascript-libraries-syntax.vim"]
 	path = vim/bundle/javascript-libraries-syntax.vim
 	url = git@github.com:othree/javascript-libraries-syntax.vim.git
+[submodule "vim/bundle/vim-characterize"]
+	path = vim/bundle/vim-characterize
+	url = git@github.com:tpope/vim-characterize.git
+[submodule "vim/bundle/vim-heroku"]
+	path = vim/bundle/vim-heroku
+	url = git@github.com:tpope/vim-heroku.git
+[submodule "vim/bundle/vim-speeddating"]
+	path = vim/bundle/vim-speeddating
+	url = git@github.com:tpope/vim-speeddating.git
+[submodule "vim/bundle/vim-commentary"]
+	path = vim/bundle/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule "vim/bundle/vim-tmux-navigator"]
+	path = vim/bundle/vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator.git
+[submodule "vim/bundle/vim-vroom"]
+	path = vim/bundle/vim-vroom
+	url = git@github.com:skalnik/vim-vroom.git
+[submodule "vim/bundle/tern_for_vim"]
+	path = vim/bundle/tern_for_vim
+	url = git@github.com:marijnh/tern_for_vim.git
+[submodule "vim/bundle/vim-nerdtree-tabs"]
+	path = vim/bundle/vim-nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "vim/bundle/closetag.vim"]
+	path = vim/bundle/closetag.vim
+	url = git@github.com:docunext/closetag.vim.git
+[submodule "vim/bundle/tagbar"]
+	path = vim/bundle/tagbar
+	url = git@github.com:majutsushi/tagbar.git
+[submodule "vim/bundle/vim-dispatch"]
+	path = vim/bundle/vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git
