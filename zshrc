@@ -70,3 +70,8 @@ PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
 # Go paths
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+# enhancd
+if [ -f "/Users/feifan/.enhancd/zsh/enhancd.zsh" ]; then
+    source "/Users/feifan/.enhancd/zsh/enhancd.zsh"
+    export ENHANCD_FILTER=peco:fzf:gof
+fi
