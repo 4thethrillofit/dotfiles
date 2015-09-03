@@ -61,11 +61,11 @@ plugins=(git bundler brew git osx ruby zsh-syntax-highlighting virtualenv 4theth
 source $ZSH/oh-my-zsh.sh
 
 
-eval "$(rbenv init -)"
-eval "$(pyenv init -)"
-# eval "$(grunt --completion=zsh)"
 export PATH=/usr/local/bin:$PATH
 PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
+
+# Ruby paths
+# export PATH="$HOME/.rbenv/bin:$PATH"
 
 # Go paths
 export GOPATH=$HOME/go
@@ -75,3 +75,11 @@ if [ -f "/Users/feifan/.enhancd/zsh/enhancd.zsh" ]; then
     source "/Users/feifan/.enhancd/zsh/enhancd.zsh"
     export ENHANCD_FILTER=peco:fzf:gof
 fi
+
+# Base16 Shell
+BASE16_SHELL="$HOME/.config/base16-shell/base16-tomorrow.dark.sh"
+[[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
+
+eval "$(rbenv init -)"
+eval "$(pyenv init -)"
+# eval "$(grunt --completion=zsh)"

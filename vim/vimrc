@@ -14,11 +14,11 @@ set expandtab                     " Use spaces instead of tabs
 set relativenumber                "Default to relative line number
 " set number                        "Default to absolute line number
 set laststatus=2                  " Show the status line all the time
-
-" colorscheme solarized
-" let base16colorspace=256
+" set colors
+set t_Co=256
+let base16colorspace=256
 colorscheme base16-tomorrow
-" set background=dark
+set background=dark
 
 set showcmd                       " Display incomplete commands.
 set cmdheight=1
@@ -82,6 +82,7 @@ autocmd BufRead,BufNewFile *.es6 setfiletype javascript
 " Ag/Ack config
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:ackprg = 'ag --nogroup --nocolor --column'
+let g:ag_highlight = 1
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Tagbar
@@ -345,3 +346,8 @@ highlight Visual       ctermbg=3   ctermfg=0
 highlight Pmenu        ctermbg=240 ctermfg=12
 highlight PmenuSel     ctermbg=0   ctermfg=3
 highlight SpellBad     ctermbg=0   ctermfg=1
+
+""""""""""""""""""""""""""""""""""""
+" Rails
+""""""""""""""""""""""""""""""""""""
+nnoremap <Leader>r :Dispatch rspec %<CR>
