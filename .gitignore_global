@@ -109,7 +109,6 @@
 /talks
 /var
 /work
-
 *.elc
 *~
 *.orig
@@ -118,3 +117,6 @@
 /tags
 .env
 .env.*
+*.swp
+*.swo
+xcuserdata/
