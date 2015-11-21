@@ -65,7 +65,7 @@ export PATH=/usr/local/bin:$PATH
 PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
 
 # Ruby paths
-# export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH="$HOME/.rbenv/bin:$PATH"
 
 # Go paths
 export GOPATH=$HOME/go
