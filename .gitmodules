@@ -147,3 +147,9 @@
 [submodule "vim/bundle/vim-dispatch"]
 	path = vim/bundle/vim-dispatch
 	url = git@github.com:tpope/vim-dispatch.git
+[submodule "vim/vim-endwise"]
+	path = vim/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
+[submodule "vim/bundle/vim-jsx"]
+	path = vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
