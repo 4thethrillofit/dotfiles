@@ -10,6 +10,9 @@ ZSH_THEME="af-magic"
 # ZSH_THEME="agnoster"
 # DISABLE_AUTO_TITLE=true
 
+# Allow running rake tasks with arguments w/o escaping
+unsetopt nomatch
+
 # Example aliases
 alias zshconfig="vi ~/.zshrc"
 alias ohmyzsh="vi ~/.oh-my-zsh"
@@ -19,7 +22,6 @@ alias reload=". ~/.zshrc && echo 'ZSH config reloaded from ~/.zshrc'"
 alias dot="cd ~/.dotfiles"
 alias ss='cd ~/Documents/projects/ssauce'
 alias core='cd ~/Documents/projects/core15'
-alias neo='cd ~/Documents/neo'
 alias p='cd ~/Documents/projects'
 alias ef='cd ~/Documents/projects/emailfinder/emailfinder_app'
 alias ef2='cd ~/Documents/projects/emailfinder/emailfinder_v2'
@@ -62,7 +64,8 @@ source $ZSH/oh-my-zsh.sh
 
 
 export PATH=/usr/local/bin:$PATH
-PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
+# PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 
 # Ruby paths
 export PATH="$HOME/.rbenv/bin:$PATH"
@@ -70,6 +73,10 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 # Go paths
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+
+# Anaconda paths
+export PATH="/Users/feifan/anaconda3/bin:$PATH"
+
 # enhancd
 if [ -f "/Users/feifan/.enhancd/zsh/enhancd.zsh" ]; then
     source "/Users/feifan/.enhancd/zsh/enhancd.zsh"
@@ -83,3 +90,5 @@ BASE16_SHELL="$HOME/.config/base16-shell/base16-tomorrow.dark.sh"
 eval "$(rbenv init -)"
 eval "$(pyenv init -)"
 # eval "$(grunt --completion=zsh)"
+export PATH="$HOME/.ndenv/bin:$PATH"
+eval "$(ndenv init -)"
