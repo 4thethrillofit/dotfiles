@@ -100,11 +100,13 @@ nnoremap <F2> :TagbarToggle<CR>
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " let g:ctrlp_map = '<leader>f'
 let g:ctrlp_max_height = 30
+let g:ctrlp_max_files=0
+let g:ctrlp_max_depth=40
 let g:ctrlp_working_path_mode = 0
 let g:ctrlp_match_window_reversed = 0
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
-let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+let g:ctrlp_custom_ignore = 'node_modules\|bower_components\|gulp_dist\|DS_Store\|build\|git\|yarn_cache'
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip
 
 "autocmd vimenter * NERDTree "autoloads nerdtree upon startup
@@ -234,8 +236,8 @@ let g:syntastic_html_tidy_blocklevel_tags = [
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " CLOSE TAG
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-autocmd FileType html,htmldjango,jinjahtml,eruby,mako let b:closetag_html_style=1
-autocmd FileType html,xhtml,xml,htmldjango,jinjahtml,eruby,mako source ~/.vim/bundle/closetag.vim/plugin/closetag.vim
+autocmd FileType html,htmldjango,jinjahtml,eruby,mako,eex let b:closetag_html_style=1
+autocmd FileType html,xhtml,xml,htmldjango,jinjahtml,eruby,mako,eex source ~/.vim/bundle/closetag.vim/plugin/closetag.vim
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " RENAME CURRENT FILE with leader+n
