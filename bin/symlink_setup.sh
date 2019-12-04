@@ -4,7 +4,8 @@
 # ln -s Base16/* ./
 
 ln -nfs ~/.dotfiles/zshrc ~/.zshrc
-ln -nfs ~/.dotfiles/tmux.conf ~/.tmux.conf
+ln -nfs ~/.dotfiles/tmux/tmux.conf ~/.tmux.conf
+ln -nfs ~/.dotfiles/tmux ~/.tmux
 ln -nfs ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -nfs ~/.dotfiles/.gitignore_global ~/.gitignore_global
 ln -nfs ~/.dotfiles/vim/* ~/.vim
