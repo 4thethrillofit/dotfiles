@@ -67,8 +67,10 @@ export PATH=/usr/local/bin:$PATH
 # PATH="/Applications/Postgres93.app/Contents/MacOS/bin:$PATH:$PATH"
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 
-# Ruby paths
+# rbenv path
 export PATH="$HOME/.rbenv/bin:$PATH"
+# exenv path
+export PATH="$HOME/.exenv/bin:$PATH"
 
 # Go paths
 export GOPATH=$HOME/go
@@ -89,6 +91,7 @@ BASE16_SHELL="$HOME/.config/base16-shell/base16-tomorrow.dark.sh"
 
 eval "$(rbenv init -)"
 eval "$(pyenv init -)"
+eval "$(exenv init -)"
 # eval "$(grunt --completion=zsh)"
 export PATH="$HOME/.ndenv/bin:$PATH"
-eval "$(ndenv init -)"
+eval "$(nodenv init -)"

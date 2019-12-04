@@ -153,3 +153,6 @@
 [submodule "vim/bundle/vim-jsx"]
 	path = vim/bundle/vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "vim/bundle/vim-solidity"]
+	path = vim/bundle/vim-solidity
+	url = git@github.com:tomlion/vim-solidity.git
