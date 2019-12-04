@@ -1,0 +1,4 @@
+pane	freelance	1	:[tmux]	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/rspec           
+pane	freelance	1	:[tmux]	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+window	freelance	1	1	:*	72d7,208x53,0,0[208x22,0,0,0,208x30,0,23,1]
+state	freelance	

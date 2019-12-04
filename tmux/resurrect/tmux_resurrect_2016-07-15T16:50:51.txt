@@ -1,0 +1,6 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+window	freelance	1	0	:-	e605,238x60,0,0[238x14,0,0,0,238x45,0,15,2]
+window	freelance	2	1	:*	b35e,238x60,0,0,1
+state	freelance	

@@ -1,0 +1,9 @@
+pane	boombox	1	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	1	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	3	:node	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	boombox	3	:node	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/ruby bin/rails s
+window	boombox	1	1	:*	ae98,206x53,0,0[206x39,0,0,0,206x13,0,40,4]
+window	boombox	2	0	:-	bb9e,206x53,0,0,1
+window	boombox	3	0	:	96d0,206x53,0,0{103x53,0,0,2,102x53,104,0,3}
+state	boombox	

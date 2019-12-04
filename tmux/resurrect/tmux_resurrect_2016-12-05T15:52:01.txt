@@ -1,0 +1,10 @@
+pane	boombox	1	:ember	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	1	:ember	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	heroku	:/Users/feifan/.local/share/heroku/cli/bin/heroku run console -r staging
+pane	boombox	3	:server	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:ruby ./bin/rake s
+pane	boombox	3	:server	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+window	boombox	1	0	:-	281e,206x57,0,0[206x28,0,0,0,206x28,0,29,5]
+window	boombox	2	1	:*	811f,206x57,0,0[206x27,0,0,1,206x29,0,28,4]
+window	boombox	3	0	:#	a8d2,206x57,0,0{103x57,0,0,2,102x57,104,0,3}
+state	boombox	

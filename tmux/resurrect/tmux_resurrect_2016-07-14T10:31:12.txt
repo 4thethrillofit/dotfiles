@@ -1,0 +1,12 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/winston	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/winston	1	zsh	:
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	hobby	1	1	:*	77b4,235x60,0,0[235x36,0,0,6,235x23,0,37,7]
+window	ssauce	1	1	:*	b1dd,235x60,0,0,0
+window	ssauce	2	0	:#-	a127,235x60,0,0[235x40,0,0,1,235x19,0,41,3]
+window	ssauce	3	0	:#	fa27,235x60,0,0{117x60,0,0,2,117x60,118,0,4}
+state	ssauce	

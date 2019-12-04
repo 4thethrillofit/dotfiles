@@ -1,0 +1,13 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	megatags	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/rake s    
+pane	megatags	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	2	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	megatags	3	:Vim	0	:#-	1	:/Users/feifan/Documents/Code/exercises/elixir/fizzbuzz	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	3	:Vim	0	:#-	2	:/Users/feifan/Documents/Code/exercises/elixir/fizzbuzz	0	zsh	:
+window	hobby	1	1	:*	3cc4,238x60,0,0[238x44,0,0,37,238x15,0,45,38]
+window	megatags	1	1	:*	c6ac,208x56,0,0[208x36,0,0,20,208x19,0,37{104x19,0,37,18,103x19,105,37,21}]
+window	megatags	2	0	:#	6485,208x56,0,0,35
+window	megatags	3	0	:#-	884b,208x56,0,0[208x40,0,0,39,208x15,0,41,40]
+state	megatags	

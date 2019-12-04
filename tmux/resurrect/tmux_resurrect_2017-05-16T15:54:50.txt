@@ -1,0 +1,7 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+window	freelance	1	1	:*	9021,380x71,0,0[380x48,0,0,0,380x22,0,49,6]
+window	freelance	2	0	:#-	7f76,380x71,0,0{189x71,0,0,1,190x71,190,0,2}
+state	freelance	

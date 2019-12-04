@@ -1,0 +1,17 @@
+pane	freelance	1	:code	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:code	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:serverz	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:serverz	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:sidekiq 4.1.4 atlas [0 of 25 busy]   
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/Envolis/evolis	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	iconsentry	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/icon_sentry	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	iconsentry	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+pane	iconsentry	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+window	freelance	1	1	:*	23b7,208x59,0,0[208x43,0,0,0,208x15,0,44,42]
+window	freelance	2	0	:#-	6b42,208x59,0,0{106x59,0,0,1,101x59,107,0,2}
+window	hobby	1	1	:*	e283,208x55,0,0,24
+window	hobby	2	0	:#-	9184,208x55,0,0[208x48,0,0,26,208x6,0,49,44]
+window	iconsentry	1	1	:*	61fa,238x60,0,0[238x19,0,0,11,238x40,0,20,14]
+window	iconsentry	2	0	:-	59e4,238x60,0,0,15
+state	freelance	

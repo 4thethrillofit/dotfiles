@@ -1,0 +1,4 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+window	hobby	1	1	:*	75da,208x56,0,0[208x41,0,0,0,208x14,0,42,1]
+state	hobby	

@@ -1,0 +1,17 @@
+pane	freelance	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	2	:ruby	0	:-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	hobby	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	1	zsh	:
+pane	hobby	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	0	zsh	:
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	sourcemedium	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	1	zsh	:
+pane	sourcemedium	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	0	node	:node /usr/local/bin/yarn run chrome-watch
+window	freelance	1	1	:*	01a2,235x60,0,0[235x33,0,0,8,235x26,0,34,12]
+window	freelance	2	0	:-	75e5,235x60,0,0{117x60,0,0,9,117x60,118,0[117x23,118,0,10,117x36,118,24,11]}
+window	hobby	1	0	:-	d91c,206x56,0,0[206x26,0,0,0,206x29,0,27,5]
+window	hobby	2	1	:*	d3ee,206x56,0,0{121x56,0,0,2,84x56,122,0,3}
+window	sourcemedium	1	1	:*	9ba6,206x53,0,0[206x34,0,0,6,206x18,0,35,7]
+state	freelance	

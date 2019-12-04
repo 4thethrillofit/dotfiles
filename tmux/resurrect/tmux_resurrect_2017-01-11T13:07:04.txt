@@ -1,0 +1,12 @@
+pane	lovefund	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/love_fund/.git	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .git
+pane	lovefund	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/love_fund	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/middleman   
+pane	lovefund	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v config.r
+pane	megatags	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	git	:git grep siteTypes
+pane	megatags	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+pane	megatags	2	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+window	lovefund	1	1	:*	0d0d,238x60,0,0[238x34,0,0,3,238x25,0,35,4]
+window	lovefund	2	0	:#-	b362,238x60,0,0,5
+window	megatags	1	1	:*	0dff,238x60,0,0[238x44,0,0,0,238x15,0,45{119x15,0,45,1,118x15,120,45,2}]
+window	megatags	2	0	:-	b364,238x60,0,0,7
+state	megatags	

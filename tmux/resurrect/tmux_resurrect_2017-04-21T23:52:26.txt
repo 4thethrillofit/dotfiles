@@ -1,0 +1,5 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:ruby	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	1	ruby	:puma 3.8.2 (tcp://localhost:3000) [shopify_test]  
+window	hobby	1	1	:*	cb9d,206x57,0,0,0
+window	hobby	2	0	:-	cb9e,206x57,0,0,1
+state	hobby	

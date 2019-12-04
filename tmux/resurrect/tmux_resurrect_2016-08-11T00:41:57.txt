@@ -1,0 +1,22 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/Guesstimate_Website	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Code/exercises/elixir/phello	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Code/exercises/elixir/phello	0	zsh	:
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	hobby	2	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags	1	zsh	:
+pane	ssauce	1	:ember	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ember	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	2	:api	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:api	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+window	freelance	1	1	:*	3ca5,235x60,0,0[235x39,0,0,0,235x20,0,40,2]
+window	freelance	2	0	:-	b1de,235x60,0,0,1
+window	hobby	1	0	:#-	fcc0,238x60,0,0[238x44,0,0,19,238x15,0,45,20]
+window	hobby	2	1	:*	c283,238x60,0,0[238x29,0,0,6,238x30,0,30{119x30,0,30,24,118x30,120,30,36}]
+window	ssauce	1	0	:	d08d,238x60,0,0[238x44,0,0,4,238x15,0,45,30]
+window	ssauce	2	0	:-	86d5,238x60,0,0[238x34,0,0,8,238x25,0,35,28]
+window	ssauce	3	1	:*	59bd,238x60,0,0{118x60,0,0,9,119x60,119,0,10}
+state	hobby	ssauce

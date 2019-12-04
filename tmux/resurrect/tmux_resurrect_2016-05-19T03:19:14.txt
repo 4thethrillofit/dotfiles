@@ -1,0 +1,20 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails s
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	ssauce	1	:zsh	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	1	:zsh	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:zsh
+pane	ssauce	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	1	:*	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	1	:*	4	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	freelance	1	1	:*	f382,238x60,0,0[238x39,0,0,17,238x20,0,40,19]
+window	freelance	2	0	:-	59e7,238x60,0,0,18
+window	hobby	1	1	:*	2019,238x60,0,0[238x39,0,0,8,238x20,0,40,9]
+window	ssauce	1	0	:	408a,238x60,0,0[238x44,0,0,0,238x15,0,45,12]
+window	ssauce	2	0	:-	904c,238x60,0,0[238x39,0,0,2,238x20,0,40,13]
+window	ssauce	3	1	:*	08d7,238x60,0,0{119x60,0,0[119x29,0,0,3,119x30,0,30,6],118x60,120,0[118x44,120,0,4,118x15,120,45,5]}
+state	freelance	

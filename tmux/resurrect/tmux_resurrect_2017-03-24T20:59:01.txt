@@ -1,0 +1,4 @@
+pane	hobby	1	:front	1	:*	1	:/Users/feifan/Documents/Projects/makers_weekly/feedly	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:front	1	:*	2	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v mix.exs
+window	hobby	1	1	:*	a8d1,206x57,0,0{103x57,0,0,0,102x57,104,0,5}
+state	hobby	

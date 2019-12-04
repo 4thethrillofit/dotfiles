@@ -1,0 +1,4 @@
+pane	hobby	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v Gemfile
+pane	hobby	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	ruby	:ruby lib/photo_downloader.rb
+window	hobby	1	1	:*	ace0,135x63,0,0[135x47,0,0,0,135x15,0,48,1]
+state	hobby	

@@ -1,0 +1,10 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	1	zsh	:
+pane	freelance	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	0	zsh	:
+pane	freelance	2	:zsh	0	:	1	:/Users/feifan/Documents/Projects/makers_weekly/makers_weekly	1	zsh	:
+pane	freelance	2	:zsh	0	:	2	:/Users/feifan/Documents/Projects/makers_weekly/makers_weekly	0	zsh	:
+pane	freelance	3	:beam.smp	1	:*	1	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	3	:beam.smp	1	:*	2	:/Users/feifan/Documents/Projects/BICEP/printful	1	beam.smp	:/usr/local/Cellar/erlang/19.3/lib/erlang/erts-8.3/bin/beam.smp -- -root /usr/local/Cellar/erlang/19.3/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.4.2/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/mix/ebin -elixir ansi_enabled true -user Elixir.IEx.CLI -extra --no-halt --erl -user Elixir.IEx.CLI +iex -S mix
+window	freelance	1	0	:-	4dad,206x54,0,0[206x45,0,0,2,206x8,0,46,3]
+window	freelance	2	0	:	eaa2,206x54,0,0[206x36,0,0,4,206x17,0,37,5]
+window	freelance	3	1	:*	0aa7,206x54,0,0[206x40,0,0,6,206x13,0,41,7]
+state	freelance	

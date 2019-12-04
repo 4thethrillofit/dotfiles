@@ -1,0 +1,10 @@
+pane	hobby	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/makers_weekly/feedly	1	zsh	:
+pane	hobby	1	:front	0	:#-	2	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	zsh	:
+pane	hobby	2	:node	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	hobby	2	:node	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	3	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/onpremise	1	zsh	:
+pane	hobby	3	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+window	hobby	1	0	:#-	062d,124x31,0,0[124x21,0,0,0,124x9,0,22,12]
+window	hobby	2	0	:#	8ac1,124x31,0,0{62x31,0,0,9,61x31,63,0,10}
+window	hobby	3	1	:*	24ec,124x31,0,0{62x31,0,0,11,61x31,63,0,16}
+state	hobby	

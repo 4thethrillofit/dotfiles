@@ -1,0 +1,9 @@
+pane	code	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/residentx_umbrella	0	zsh	:
+pane	code	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/source_medium	1	zsh	:
+pane	code	2	:code	1	:*	1	:/Users/feifan/Documents/Projects/residentx_umbrella	1	zsh	:
+pane	code	2	:code	1	:*	2	:/Users/feifan/Documents/Projects/residentx_umbrella	0	zsh	:
+pane	code	3	:zsh	0	:#	1	:/Users/feifan/Documents/Code/pragstudio-elixir-code	1	zsh	:
+window	code	1	0	:#-	ecf3,92x51,0,0[92x33,0,0,4,92x17,0,34,6]
+window	code	2	1	:*	ece5,92x51,0,0[92x33,0,0,1,92x17,0,34,2]
+window	code	3	0	:#	ada0,92x51,0,0,3
+state	code	

@@ -1,0 +1,11 @@
+pane	hobby	1	:front	0	:	1	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:front	0	:	2	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v feedly.rb
+pane	hobby	1	:front	0	:	3	:/Users/feifan/Documents/Projects/makers_weekly/feedly	1	zsh	:
+pane	hobby	1	:front	0	:	4	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v mix.exs
+pane	hobby	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	hobby	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	hobby	3	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+window	hobby	1	0	:	ce3c,206x57,0,0{123x57,0,0[123x17,0,0,0,123x24,0,18,6,123x14,0,43,7],82x57,124,0,5}
+window	hobby	2	0	:-	d4c2,206x57,0,0{103x57,0,0,9,102x57,104,0,10}
+window	hobby	3	1	:*	6600,206x57,0,0,11
+state	hobby	

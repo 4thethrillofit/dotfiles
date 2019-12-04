@@ -1,0 +1,11 @@
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:zsh	0	:#-	3	:/Users/feifan	0	zsh	:
+window	ssauce	1	1	:*	3d26,235x60,0,0[235x44,0,0,0,235x15,0,45,3]
+window	ssauce	2	0	:#	d02b,235x60,0,0[235x49,0,0,2,235x10,0,50,7]
+window	ssauce	3	0	:#-	a1ab,235x60,0,0{117x60,0,0,4,117x60,118,0[117x44,118,0,5,117x15,118,45,6]}
+state	ssauce	

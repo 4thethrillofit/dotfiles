@@ -1,0 +1,7 @@
+pane	freelance	1	:Vim	1	:*M	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*M	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	1	:Vim	1	:*M	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	2	:reattach-to-user-namespace	0	:-	1	:	1	reattach-to-user-namespace	:
+window	freelance	1	1	:*M	d6ba,238x63,0,0[238x46,0,0,0,238x16,0,47{119x16,0,47,1,118x16,120,47,2}]
+window	freelance	2	0	:-	bf60,238x63,0,0,3
+state	freelance	

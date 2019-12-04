@@ -1,0 +1,5 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+pane	hobby	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	git	:git grep _.map
+window	hobby	1	1	:*	cb82,206x56,0,0[206x41,0,0,0,206x14,0,42{103x14,0,42,1,102x14,104,42,4}]
+state	hobby	

@@ -1,0 +1,21 @@
+pane	freelance	1	:code	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:code	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	1	:code	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	git	:git grep should_ingress_payload
+pane	freelance	2	:serverz	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:bin/rails  
+pane	freelance	2	:serverz	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:sidekiq 4.1.4 atlas [22 of 25 busy]   
+pane	freelance	2	:serverz	0	:#-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	3	:bitbucket	0	:#	1	:/Users/feifan/Documents/Projects/HashiCorp/atlassian-oauth-examples/ruby	1	zsh	:
+pane	freelance	3	:bitbucket	0	:#	2	:/Users/feifan/Atlassian/Bitbucket/5.1.0/Start Bitbucket.app	0	zsh	:
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/SecondAct/landing_page	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	iconsentry	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/icon_sentry	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	iconsentry	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+pane	iconsentry	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+window	freelance	1	1	:*	3f47,208x55,0,0[208x47,0,0,0,208x7,0,48{106x7,0,48,3,101x7,107,48,22}]
+window	freelance	2	0	:#-	1647,208x55,0,0{106x55,0,0,1,101x55,107,0[101x32,107,0,2,101x22,107,33,23]}
+window	freelance	3	0	:#	c377,208x55,0,0[208x32,0,0,10,208x22,0,33,8]
+window	hobby	1	1	:*	dfe3,238x63,0,0,24
+window	hobby	2	0	:#-	dfe5,238x63,0,0,26
+window	iconsentry	1	1	:*	61fa,238x60,0,0[238x19,0,0,11,238x40,0,20,14]
+window	iconsentry	2	0	:-	59e4,238x60,0,0,15
+state	freelance	

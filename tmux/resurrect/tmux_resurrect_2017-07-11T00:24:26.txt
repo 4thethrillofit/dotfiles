@@ -1,0 +1,18 @@
+pane	freelance	1	:code	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:code	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	1	:code	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:serverz	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:serverz	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	3	:bitbucket	0	:	1	:/Users/feifan/Documents/Projects/HashiCorp/spring-sale	0	zsh	:
+pane	freelance	3	:bitbucket	0	:	2	:/Users/feifan/Documents/Projects/HashiCorp/atlassian-oauth-examples/ruby	1	ruby	:/Users/feifan/.rbenv/versions/2.4.1/bin/rackup   
+pane	freelance	3	:bitbucket	0	:	3	:/Users/feifan/Documents/Projects/HashiCorp/landing-page	0	zsh	:
+pane	freelance	3	:bitbucket	0	:	4	:/Users/feifan/Atlassian/Bitbucket/5.1.0/Start Bitbucket.app	0	zsh	:
+pane	iconsentry	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/icon_sentry	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	iconsentry	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+pane	iconsentry	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+window	freelance	1	1	:*	c8d9,318x80,0,0[318x52,0,0,0,318x27,0,53{159x27,0,53,3,158x27,160,53,19}]
+window	freelance	2	0	:#-	78d6,318x80,0,0{159x80,0,0,1,158x80,160,0,2}
+window	freelance	3	0	:	b73a,318x80,0,0[318x53,0,0{159x53,0,0,6,158x53,160,0,10},318x26,0,54{159x26,0,54,7,158x26,160,54,8}]
+window	iconsentry	1	1	:*	61fa,238x60,0,0[238x19,0,0,11,238x40,0,20,14]
+window	iconsentry	2	0	:-	59e4,238x60,0,0,15
+state	freelance	

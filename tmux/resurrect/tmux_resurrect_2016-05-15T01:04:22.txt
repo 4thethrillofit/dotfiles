@@ -1,0 +1,15 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	ssauce	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	ruby	:pry 
+pane	ssauce	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:sidekiq 4.1.1 boombox_api [0 of 25 busy]     
+pane	ssauce	3	:servers	0	:#	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails s -b 0.0.0.0
+pane	ssauce	3	:servers	0	:#	4	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	hobby	1	1	:*	c0ba,238x60,0,0[238x29,0,0{119x29,0,0,8,118x29,120,0,10},238x30,0,30,9]
+window	ssauce	1	1	:*	b35d,238x60,0,0,0
+window	ssauce	2	0	:#-	904b,238x60,0,0[238x39,0,0,2,238x20,0,40,11]
+window	ssauce	3	0	:#	58d9,238x60,0,0{119x60,0,0[119x44,0,0,3,119x15,0,45,6],118x60,120,0[118x44,120,0,4,118x15,120,45,5]}
+state	ssauce	hobby

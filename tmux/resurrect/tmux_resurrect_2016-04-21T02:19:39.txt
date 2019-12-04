@@ -1,0 +1,12 @@
+pane	freelance	1	:app	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:app	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:servers	0	:#-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails s
+pane	ssauce	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan	1	zsh	:
+window	freelance	1	1	:*	199a,238x64,0,0[238x47,0,0,6,238x16,0,48,9]
+window	freelance	2	0	:#-	c365,238x64,0,0,8
+window	ssauce	1	0	:#-	c35d,238x64,0,0,0
+window	ssauce	2	1	:*	c35e,238x64,0,0,1
+window	ssauce	3	0	:#	c35f,238x64,0,0,2
+state	freelance	

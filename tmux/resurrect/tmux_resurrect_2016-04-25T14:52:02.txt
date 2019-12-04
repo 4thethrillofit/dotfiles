@@ -1,0 +1,17 @@
+pane	freelance	1	:app	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:app	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:servers	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails s
+pane	hobby	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/rumbl	1	zsh	:
+pane	ssauce	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan	1	zsh	:
+window	freelance	1	1	:*	de18,238x63,0,0[238x36,0,0,6,238x26,0,37,9]
+window	freelance	2	0	:-	bf65,238x63,0,0,8
+window	hobby	1	0	:-	ac21,236x60,0,0[236x44,0,0,16,236x15,0,45,18]
+window	hobby	2	1	:*	5964,236x60,0,0,15
+window	ssauce	1	0	:#-	b65d,236x61,0,0,0
+window	ssauce	2	1	:*	b65e,236x61,0,0,1
+window	ssauce	3	0	:#	b65f,236x61,0,0,2
+state	ssauce	

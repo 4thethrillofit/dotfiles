@@ -1,0 +1,20 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:server	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Code/open_source/sky3ds.py	1	zsh	:
+pane	hobby	2	:zsh	1	:*	2	:/Users/feifan/Documents/Code/open_source/sky3ds.py	0	zsh	:
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:sh /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh
+pane	ssauce	2	:zsh	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	freelance	1	0	:-	661e,236x60,0,0[236x40,0,0,14,236x19,0,41,16]
+window	freelance	2	1	:*	5964,236x60,0,0,15
+window	hobby	1	0	:#-	0d0d,238x60,0,0[238x34,0,0,3,238x25,0,35,4]
+window	hobby	2	1	:*	c6d1,238x60,0,0[238x34,0,0,7,238x25,0,35,13]
+window	ssauce	1	1	:*	7c0b,238x61,0,0[238x40,0,0,1,238x20,0,41,8]
+window	ssauce	2	0	:	5bdf,238x61,0,0,10
+window	ssauce	3	0	:#-	91d4,238x61,0,0{119x61,0,0,11,118x61,120,0,18}
+state	ssauce	

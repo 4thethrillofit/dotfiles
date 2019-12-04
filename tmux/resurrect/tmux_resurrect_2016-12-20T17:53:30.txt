@@ -1,0 +1,19 @@
+pane	boombox	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	3	:server	1	:*	3	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	boombox	3	:server	1	:*	4	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	megatags	1	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	0	:-	2	:/Users/feifan/Documents/Projects/mega-tags	0	node	:npm  
+pane	megatags	1	:Vim	0	:-	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	megatags	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+window	boombox	1	0	:#	f728,156x79,0,0[156x44,0,0,0,156x34,0,45,5]
+window	boombox	2	0	:#-	5952,156x79,0,0[156x48,0,0,1,156x30,0,49{79x30,0,49,4,76x30,80,49,10}]
+window	boombox	3	1	:*	ec3a,156x79,0,0{79x79,0,0,2,76x79,80,0[76x38,80,0,3,76x40,80,39{16x40,80,39,7,59x40,97,39,9}]}
+window	megatags	1	0	:-	65ec,156x79,0,0[156x54,0,0,11,156x24,0,55{78x24,0,55,13,77x24,79,55,17}]
+window	megatags	2	1	:*	6c95,156x79,0,0,16
+state	megatags	

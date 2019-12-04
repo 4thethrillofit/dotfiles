@@ -1,0 +1,7 @@
+pane	freelance	1	:git	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	git	:git grep ion-
+pane	freelance	1	:git	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+window	freelance	1	1	:*	0a1e,118x60,0,0[118x49,0,0,0,118x10,0,50,3]
+window	freelance	2	0	:-	530a,118x60,0,0{59x60,0,0,1,58x60,60,0,2}
+state	freelance	

@@ -1,0 +1,7 @@
+pane	boombox	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:zsh	0	:	1	:/Users/feifan	1	zsh	:
+pane	boombox	3	:zsh	0	:-	1	:/Users/feifan	1	zsh	:
+window	boombox	1	1	:*	bb9d,206x53,0,0,0
+window	boombox	2	0	:	bb9e,206x53,0,0,1
+window	boombox	3	0	:-	bb9f,206x53,0,0,2
+state	boombox	

@@ -1,0 +1,11 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/middleman   
+pane	ssauce	1	:front	0	:	1	:/Users/feifan/Documents/Projects/boombox/styled-form	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v styled-form.css
+pane	ssauce	2	:api	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	hobby	1	1	:*	e631,118x61,0,0[118x50,0,0,8,118x10,0,51,9]
+window	ssauce	1	0	:	b6bd,118x61,0,0,0
+window	ssauce	2	0	:-	b6be,118x61,0,0,1
+window	ssauce	3	1	:*	1b23,118x61,0,0{57x61,0,0,2,60x61,58,0,3}
+state	ssauce	hobby

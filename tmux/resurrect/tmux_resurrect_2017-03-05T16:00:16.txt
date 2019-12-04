@@ -1,0 +1,10 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	megatags	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/rake s    
+pane	megatags	1	:ruby	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+window	hobby	1	1	:*	77c5,238x56,0,0[238x42,0,0,37,238x13,0,43,38]
+window	megatags	1	1	:*	1a48,208x52,0,0[208x34,0,0,20,208x17,0,35{104x17,0,35,18,103x17,105,35,21}]
+window	megatags	2	0	:#-	5c85,208x52,0,0,35
+state	megatags	

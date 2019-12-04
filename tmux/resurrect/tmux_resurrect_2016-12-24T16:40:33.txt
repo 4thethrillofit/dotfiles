@@ -1,0 +1,19 @@
+pane	boombox	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	3	:server	1	:*	3	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	boombox	3	:server	1	:*	4	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	megatags	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	megatags	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	git	:git grep Setup
+pane	megatags	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags	1	zsh	:
+window	boombox	1	0	:#	895c,208x56,0,0[208x32,0,0,0,208x23,0,33,5]
+window	boombox	2	0	:#-	5ec7,208x56,0,0[208x36,0,0,1,208x19,0,37{105x19,0,37,4,102x19,106,37,10}]
+window	boombox	3	1	:*	1d8a,208x56,0,0{105x56,0,0,2,102x56,106,0[102x26,106,0,3,102x29,106,27{42x29,106,27,7,59x29,149,27,9}]}
+window	megatags	1	1	:*	40c3,208x56,0,0[208x47,0,0,11,208x8,0,48{104x8,0,48,13,103x8,105,48,17}]
+window	megatags	2	0	:-	6485,208x56,0,0,16
+state	megatags	

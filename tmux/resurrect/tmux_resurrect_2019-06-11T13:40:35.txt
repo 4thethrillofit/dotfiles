@@ -1,0 +1,3 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects	1	zsh	:
+window	code	1	1	:*	bfbd,116x54,0,0,0
+state	code	

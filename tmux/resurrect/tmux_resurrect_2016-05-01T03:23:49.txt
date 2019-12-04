@@ -1,0 +1,7 @@
+pane	hobby	1	:Vim	1	:*M	1	:/Users/feifan/Documents/Projects/personal_site	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*M	2	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	hobby	1	:Vim	1	:*M	3	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	2	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/middleman-base	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v config.rb
+window	hobby	1	1	:*M	3b7b,238x60,0,0[238x29,0,0,0,238x30,0,30{119x30,0,30,2,118x30,120,30,3}]
+window	hobby	2	0	:-	b35e,238x60,0,0,1
+state	hobby	

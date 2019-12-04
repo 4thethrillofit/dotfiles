@@ -1,0 +1,6 @@
+pane	freelance	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v Gemfile
+pane	freelance	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby /Users/feifan/.rbenv/versions/2.3.1/bin/bundle install
+pane	freelance	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+window	freelance	1	1	:*	8c85,238x60,0,0[238x29,0,0,0,238x30,0,30,2]
+window	freelance	2	0	:-	b35e,238x60,0,0,1
+state	freelance	

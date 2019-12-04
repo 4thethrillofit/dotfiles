@@ -1,0 +1,5 @@
+pane	code	1	:beam.smp	0	:-	1	:/Users/feifan/Documents/Projects/sm_bot	1	beam.smp	:/usr/local/Cellar/erlang/22.0.2/lib/erlang/erts-10.4.1/bin/beam.smp -- -root /usr/local/Cellar/erlang/22.0.2/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.8.2/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.8.2/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.8.2/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.8.2/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.8.2/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.8.2/bin/../lib/mix/ebin -elixir ansi_enabled true -noshell -s elixir start_cli -extra /usr/local/bin/mix phx.server
+pane	code	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/sm_bot	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+window	code	1	0	:-	bfbd,116x54,0,0,0
+window	code	2	1	:*	bfbe,116x54,0,0,1
+state	code	

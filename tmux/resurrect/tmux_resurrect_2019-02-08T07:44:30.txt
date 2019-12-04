@@ -1,0 +1,9 @@
+pane	code	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/source_medium	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+pane	code	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/source_medium	0	zsh	:
+pane	code	2	:code	0	:#-	1	:/Users/feifan/Documents/Code/exercises/rumbl	1	zsh	:
+pane	code	2	:code	0	:#-	2	:/Users/feifan/Documents/Code/exercises/rumbl	0	zsh	:
+pane	code	3	:zsh	0	:#	1	:/Users/feifan/Documents/Code/pragstudio-elixir-code	1	zsh	:
+window	code	1	1	:*	1efa,103x54,0,0[103x40,0,0,4,103x13,0,41,6]
+window	code	2	0	:#-	0b72,103x54,0,0[103x30,0,0,1,103x23,0,31,2]
+window	code	3	0	:#	be00,103x54,0,0,3
+state	code	

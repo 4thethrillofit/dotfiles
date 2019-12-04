@@ -1,0 +1,6 @@
+pane	freelance	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp	1	zsh	:
+window	freelance	1	0	:#-	04d8,208x53,0,0[208x35,0,0,0,208x17,0,36,1]
+window	freelance	2	1	:*	bca2,208x53,0,0,5
+state	freelance	

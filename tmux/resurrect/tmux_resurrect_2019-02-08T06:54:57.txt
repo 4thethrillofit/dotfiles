@@ -1,0 +1,10 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/rumbl	0	zsh	:
+pane	code	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/source_medium	1	zsh	:
+pane	code	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/source_medium	0	zsh	:
+pane	code	2	:code	0	:	1	:/Users/feifan/Documents/Code/exercises/rumbl	0	zsh	:
+pane	code	2	:code	0	:	2	:/Users/feifan/Documents/Code/exercises/rumbl	1	zsh	:
+pane	code	3	:zsh	0	:-	1	:/Users/feifan/Documents/Code/pragstudio-elixir-code	1	zsh	:
+window	code	1	1	:*	9513,208x54,0,0[208x35,0,0{104x35,0,0,0,103x35,105,0,5},208x18,0,36,4]
+window	code	2	0	:	b95a,208x54,0,0[208x30,0,0,1,208x23,0,31,2]
+window	code	3	0	:-	c0a0,208x54,0,0,3
+state	code	

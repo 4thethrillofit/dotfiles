@@ -1,0 +1,4 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/IElixir	1	zsh	:
+pane	code	1	:zsh	1	:*	2	:/Users/feifan	0	zsh	:
+window	code	1	1	:*	4889,238x61,0,0[238x45,0,0,1,238x15,0,46,2]
+state	code	

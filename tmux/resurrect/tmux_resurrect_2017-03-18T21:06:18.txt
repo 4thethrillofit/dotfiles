@@ -1,0 +1,9 @@
+pane	boombox	1	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	1	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:ruby ./bin/rake docker:run[invite_tester]
+pane	boombox	2	:zsh	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	3	:node	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	boombox	3	:node	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/ruby bin/rails s
+window	boombox	1	1	:*	7719,206x54,0,0[206x30,0,0,0,206x23,0,31,4]
+window	boombox	2	0	:	bf9e,206x54,0,0,1
+window	boombox	3	0	:-	1b51,206x54,0,0{103x54,0,0,2,102x54,104,0,3}
+state	boombox	

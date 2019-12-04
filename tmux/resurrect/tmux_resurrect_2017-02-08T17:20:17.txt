@@ -1,0 +1,10 @@
+pane	hobby	1	:awesome	1	:*	1	:/Users/feifan/Documents/Projects/awesomegrok	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:awesome	1	:*	2	:/Users/feifan/Documents/Projects/awesomegrok	1	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/rake d    
+pane	hobby	1	:awesome	1	:*	3	:/Users/feifan/Documents/Projects/awesomegrok	0	zsh	:
+pane	hobby	2	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+window	hobby	1	1	:*	f8c9,237x60,0,0[237x29,0,0,9,237x30,0,30{118x30,0,30,10,118x30,119,30,13}]
+window	hobby	2	0	:-	59a1,237x60,0,0,12
+window	megatags	1	1	:*	f5da,208x56,0,0[208x41,0,0,0,208x14,0,42,2]
+state	hobby	

@@ -1,0 +1,12 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	zsh	:
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v process_ring.ex
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/otp	0	beam.smp	:/usr/local/Cellar/erlang/19.0.2_1/lib/erlang/erts-8.0.2/bin/beam.smp -- -root /usr/local/Cellar/erlang/19.0.2_1/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.3.3/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.3.3/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.3.3/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.3.3/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.3.3/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.3.3/bin/../lib/mix/ebin -elixir ansi_enabled true -user Elixir.IEx.CLI -extra --no-halt --erl -user Elixir.IEx.CLI +iex
+pane	hobby	1	:Vim	1	:*	3	:/Users/feifan/Documents/Code/exercises/elixir/otp	0	zsh	:
+pane	hobby	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:Vim	0	:#-	2	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+window	freelance	1	1	:*	2103,126x56,0,0[126x36,0,0,13,126x19,0,37{69x19,0,37,12,56x19,70,37,2}]
+window	hobby	1	1	:*	462f,144x60,0,0[144x36,0,0,4,144x23,0,37{99x23,0,37,5,44x23,100,37,6}]
+window	hobby	2	0	:#-	90de,144x60,0,0[144x34,0,0,7,144x25,0,35,8]
+state	hobby	

@@ -1,0 +1,9 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	0	zsh	:
+pane	freelance	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/makers_weekly/makers_weekly	1	zsh	:
+pane	freelance	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/makers_weekly/makers_weekly	0	zsh	:
+pane	freelance	3	:zsh	0	:	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	1	zsh	:
+window	freelance	1	1	:*	d22d,208x54,0,0[208x45,0,0,2,208x8,0,46,3]
+window	freelance	2	0	:-	2ce3,208x54,0,0[208x36,0,0,4,208x17,0,37,5]
+window	freelance	3	0	:	c0a3,208x54,0,0,6
+state	freelance	

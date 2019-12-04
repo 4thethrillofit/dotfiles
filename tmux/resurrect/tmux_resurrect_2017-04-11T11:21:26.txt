@@ -1,0 +1,4 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v main.tf
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise-modules/aws-standard	0	zsh	:
+window	freelance	1	1	:*	a22b,208x53,0,0[208x44,0,0,2,208x8,0,45,3]
+state	freelance	

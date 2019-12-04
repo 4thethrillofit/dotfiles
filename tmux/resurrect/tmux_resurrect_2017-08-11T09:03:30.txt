@@ -1,0 +1,8 @@
+pane	freelance	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	1	:ruby	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:bin/rails  
+pane	freelance	1	:ruby	1	:*	4	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:sidekiq 4.1.4 atlas [0 of 25 busy]   
+pane	freelance	2	:[tmux]	0	:-	1	:/Users/feifan	1	zsh	:
+window	freelance	1	1	:*	b0ed,238x73,0,0{144x73,0,0[144x51,0,0,0,144x21,0,52,3],93x73,145,0[93x59,145,0,1,93x13,145,60,2]}
+window	freelance	2	0	:-	c162,238x73,0,0,5
+state	freelance	

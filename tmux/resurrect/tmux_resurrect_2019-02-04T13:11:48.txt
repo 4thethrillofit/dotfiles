@@ -1,0 +1,9 @@
+pane	code	1	:beam.smp	0	:#-	1	:/Users/feifan/Documents/Code/exercises/rumbl	1	beam.smp	:/usr/local/Cellar/erlang/21.2.1/lib/erlang/erts-10.2.1/bin/beam.smp -- -root /usr/local/Cellar/erlang/21.2.1/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.7.4/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/mix/ebin -elixir ansi_enabled true -noshell -user Elixir.IEx.CLI -extra --no-halt --erl -noshell -user Elixir.IEx.CLI +iex -S mix phx.server
+pane	code	1	:beam.smp	0	:#-	2	:/Users/feifan/Documents/Code/exercises/rumbl	0	zsh	:
+pane	code	2	:code	1	:*	1	:/Users/feifan/Documents/Code/exercises/rumbl	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+pane	code	2	:code	1	:*	2	:/Users/feifan/Documents/Code/exercises/rumbl	0	beam.smp	:/usr/local/Cellar/erlang/21.2.1/lib/erlang/erts-10.2.1/bin/beam.smp -- -root /usr/local/Cellar/erlang/21.2.1/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.7.4/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/mix/ebin -elixir ansi_enabled true -noshell -user Elixir.IEx.CLI -extra --no-halt --erl -noshell -user Elixir.IEx.CLI +iex -S mix
+pane	code	3	:Vim	0	:#	1	:/Users/feifan/Documents/Code/pragstudio-elixir-code/final-app	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+window	code	1	0	:#-	f7f0,103x54,0,0[103x20,0,0,0,103x33,0,21,4]
+window	code	2	1	:*	f657,103x54,0,0[103x45,0,0,1,103x8,0,46,2]
+window	code	3	0	:#	be00,103x54,0,0,3
+state	code	

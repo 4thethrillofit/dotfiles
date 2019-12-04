@@ -1,0 +1,7 @@
+pane	hobby	1	:awesome	1	:*	1	:/Users/feifan/Documents/Projects/awesomegrok	0	zsh	:
+pane	hobby	1	:awesome	1	:*	2	:/Users/feifan/Documents/Projects/awesomegrok	1	zsh	:
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+window	hobby	1	1	:*	4002,237x60,0,0[237x44,0,0,9,237x15,0,45,10]
+window	megatags	1	1	:*	f5da,208x56,0,0[208x41,0,0,0,208x14,0,42,2]
+state	hobby	

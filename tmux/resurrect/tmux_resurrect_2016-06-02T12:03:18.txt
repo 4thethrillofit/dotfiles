@@ -1,0 +1,14 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/MY_BLOG_PROJECT	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:Vim	0	:#-	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	2	:zsh	0	:#	1	:/Users/feifan	1	zsh	:
+pane	ssauce	3	:zsh	0	:#-	1	:/Users/feifan	1	zsh	:
+window	hobby	1	1	:*	a9ac,235x60,0,0[235x34,0,0,3,235x25,0,35,4]
+window	hobby	2	0	:#-	7a2c,235x60,0,0{117x60,0,0,5,117x60,118,0,7}
+window	ssauce	1	1	:*	bd2a,235x60,0,0[235x44,0,0,1,235x15,0,45,8]
+window	ssauce	2	0	:#	591f,235x60,0,0,10
+window	ssauce	3	0	:#-	5920,235x60,0,0,11
+state	ssauce	

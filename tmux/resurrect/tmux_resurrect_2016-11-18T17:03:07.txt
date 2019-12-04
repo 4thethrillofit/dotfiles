@@ -1,0 +1,21 @@
+pane	boombox	1	:ember	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:servers	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:ember    
+pane	boombox	3	:servers	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:ruby .git/safe/../../bin/rails s --binding 0.0.0.0
+pane	boombox	3	:servers	0	:-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	zsh	:
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	hobby	1	:api	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	1	:api	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	hobby	2	:front	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	hobby	3	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp/metex	0	zsh	:
+pane	hobby	3	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp/metex	1	zsh	:
+window	boombox	1	0	:	5be0,238x61,0,0,11
+window	boombox	2	1	:*	5be1,238x61,0,0,12
+window	boombox	3	0	:-	47c4,238x61,0,0{119x61,0,0,13,118x61,120,0[118x45,120,0,15,118x15,120,46,17]}
+window	freelance	1	1	:*	0394,122x56,0,0[122x41,0,0,0,122x14,0,42{65x14,0,42,3,56x14,66,42,4}]
+window	hobby	1	0	:	9f59,140x60,0,0[140x39,0,0,5,140x20,0,40,8]
+window	hobby	2	0	:-	af83,140x60,0,0,6
+window	hobby	3	1	:*	8ff5,140x60,0,0[140x39,0,0,9,140x20,0,40,10]
+state	boombox	

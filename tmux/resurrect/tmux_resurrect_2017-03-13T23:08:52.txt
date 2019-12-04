@@ -1,0 +1,20 @@
+pane	boombox	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	2	:node	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	boombox	2	:node	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/ruby bin/rails s
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/rake   
+pane	megatags	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	2	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	2	:zsh	0	:#	2	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	megatags	2	:zsh	0	:#	3	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	3	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/BICEP/printful	1	zsh	:
+pane	megatags	3	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/BICEP/printful	0	zsh	:
+window	boombox	1	1	:*	e2b9,318x74,0,0,49
+window	boombox	2	0	:#-	0b83,318x74,0,0{159x74,0,0,50,158x74,160,0,51}
+window	hobby	1	1	:*	3cc4,238x60,0,0[238x44,0,0,37,238x15,0,45,38]
+window	megatags	1	1	:*	addb,363x83,0,0[363x57,0,0,20,363x25,0,58{181x25,0,58,18,181x25,182,58,21}]
+window	megatags	2	0	:#	9b53,363x83,0,0[363x55,0,0,35,363x27,0,56{182x27,0,56,43,180x27,183,56,44}]
+window	megatags	3	0	:#-	21bf,363x83,0,0[363x50,0,0,45,363x32,0,51,47]
+state	boombox	

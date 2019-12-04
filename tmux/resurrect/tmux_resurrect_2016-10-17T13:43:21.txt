@@ -1,0 +1,12 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	zsh	:
+pane	freelance	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects	1	zsh	:
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp/worker_pool	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp/worker_pool	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+window	freelance	1	1	:*	2edc,208x56,0,0[208x36,0,0,0,208x19,0,37,3]
+window	freelance	2	0	:#-	c8a6,208x56,0,0,9
+window	hobby	1	1	:*	feee,237x60,0,0[237x39,0,0,4,237x20,0,40,5]
+window	hobby	2	0	:#-	ff76,237x60,0,0[237x44,0,0,7,237x15,0,45,8]
+state	freelance	

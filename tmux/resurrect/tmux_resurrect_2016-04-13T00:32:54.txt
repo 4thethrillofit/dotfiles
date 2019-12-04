@@ -1,0 +1,20 @@
+pane	3	1	:zsh	1	:*	1	:/Users/feifan/.dotfiles	1	zsh	:
+pane	3	1	:zsh	1	:*	2	:/Users/feifan/.dotfiles	0	zsh	:
+pane	freelance	1	:rails	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:rails	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:server	0	:#-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	ssauce	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:-	4	:/Users/feifan/Documents/Projects/core15-local/core15-ios-app	0	zsh	:
+window	3	1	1	:*	a610,238x64,0,0[238x41,0,0,3,238x22,0,42,4]
+window	freelance	1	1	:*	6f31,235x60,0,0[235x42,0,0,5,235x17,0,43,6]
+window	freelance	2	0	:#-	b1e4,235x60,0,0,7
+window	ssauce	1	0	:#	18c9,236x60,0,0[236x36,0,0,0,236x23,0,37,8]
+window	ssauce	2	1	:*	9db4,236x60,0,0[236x46,0,0,17,236x13,0,47,9]
+window	ssauce	3	0	:-	6eff,236x60,0,0{118x60,0,0[118x46,0,0,2,118x13,0,47,10],117x60,119,0[117x56,119,0,11,117x3,119,57,12]}
+state	freelance	ssauce

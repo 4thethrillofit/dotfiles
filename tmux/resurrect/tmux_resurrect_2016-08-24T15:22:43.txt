@@ -1,0 +1,25 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/bloggr	0	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/bloggr	1	zsh	:
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Code/exercises/elixir/bloggr	0	zsh	:
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/rumbl	1	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/rumbl	0	zsh	:
+pane	hobby	1	:zsh	1	:*	3	:/Users/feifan/Documents/Code/exercises/elixir/rumbl	0	zsh	:
+pane	hobby	2	:zsh	0	:	1	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	hobby	2	:zsh	0	:	2	:/Users/feifan/Documents/Projects/mega-tags	1	zsh	:
+pane	hobby	2	:zsh	0	:	3	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	hobby	3	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	1	zsh	:
+pane	hobby	3	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	zsh	:
+pane	ssauce	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/rspec   
+pane	ssauce	3	:servers	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	freelance	1	1	:*	7856,141x60,0,0[141x39,0,0,0,141x20,0,40{70x20,0,40,2,70x20,71,40,42}]
+window	hobby	1	1	:*	61a1,238x61,0,0[238x35,0,0,19,238x25,0,36{118x25,0,36,39,119x25,119,36,40}]
+window	hobby	2	0	:	c507,238x61,0,0[238x39,0,0,6,238x21,0,40[238x12,0,40,24,238x8,0,53,37]]
+window	hobby	3	0	:-	11d4,238x61,0,0{119x61,0,0,41,118x61,120,0,44}
+window	ssauce	1	0	:#	32de,235x61,0,0[235x45,0,0,4,235x15,0,46,30]
+window	ssauce	2	1	:*	e925,235x61,0,0[235x35,0,0,8,235x25,0,36,28]
+window	ssauce	3	0	:-	7b75,235x61,0,0{116x61,0,0,9,118x61,117,0,10}
+state	ssauce	hobby

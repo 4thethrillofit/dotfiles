@@ -1,0 +1,7 @@
+pane	ssauce	1	:front	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:	1	:/Users/feifan	1	zsh	:
+window	ssauce	1	0	:-	c35d,238x64,0,0,0
+window	ssauce	2	1	:*	c35e,238x64,0,0,1
+window	ssauce	3	0	:	c35f,238x64,0,0,2
+state	ssauce	

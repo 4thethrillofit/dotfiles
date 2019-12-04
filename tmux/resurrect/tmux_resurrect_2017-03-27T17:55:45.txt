@@ -1,0 +1,6 @@
+pane	hobby	1	:front	1	:*	1	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:front	1	:*	2	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v feedly.rb
+pane	hobby	1	:front	1	:*	3	:/Users/feifan/Documents/Projects/makers_weekly/feedly	1	zsh	:
+pane	hobby	1	:front	1	:*	4	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v mix.exs
+window	hobby	1	1	:*	ce3c,206x57,0,0{123x57,0,0[123x17,0,0,0,123x24,0,18,6,123x14,0,43,7],82x57,124,0,5}
+state	hobby	

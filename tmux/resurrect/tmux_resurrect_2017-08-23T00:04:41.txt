@@ -1,0 +1,4 @@
+pane	freelance	1	:[tmux]	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:[tmux]	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+window	freelance	1	1	:*	9b20,147x76,0,0{73x76,0,0,0,73x76,74,0,1}
+state	freelance	

@@ -1,0 +1,22 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/Guesstimate_Website	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	hobby	1	:node	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:node	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	hobby	1	:node	1	:*	3	:/Users/feifan/Documents/Projects/hello-world	1	node	:node /usr/local/bin/create-react-app hello-world
+pane	hobby	2	:Vim	0	:#	1	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:Vim	0	:#	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.2.3/bin/middleman
+pane	hobby	3	:Vim	0	:#-	1	:/Users/feifan/Documents/Exercises/react/reduxtagram	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+window	freelance	1	1	:*	3ca5,235x60,0,0[235x39,0,0,0,235x20,0,40,2]
+window	freelance	2	0	:-	b1de,235x60,0,0,1
+window	hobby	1	1	:*	3282,238x60,0,0[238x29,0,0,6,238x30,0,30{119x30,0,30,11,118x30,120,30,22}]
+window	hobby	2	0	:#	fcc0,238x60,0,0[238x44,0,0,19,238x15,0,45,20]
+window	hobby	3	0	:#-	d9e0,238x60,0,0,21
+window	ssauce	1	0	:#	b2c1,118x60,0,0,4
+window	ssauce	2	0	:-	b2c5,118x60,0,0,8
+window	ssauce	3	1	:*	69eb,118x60,0,0{59x60,0,0,9,58x60,60,0,10}
+state	hobby	

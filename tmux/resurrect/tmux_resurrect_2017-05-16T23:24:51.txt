@@ -1,0 +1,7 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+window	freelance	1	1	:*	756f,237x68,0,0[237x31,0,0,0,237x36,0,32,6]
+window	freelance	2	0	:#-	3e4a,237x68,0,0{117x68,0,0,1,119x68,118,0,2}
+state	freelance	

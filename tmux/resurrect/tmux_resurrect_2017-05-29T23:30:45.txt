@@ -1,0 +1,9 @@
+pane	freelance	1	:zsh	0	:	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	1	:zsh	0	:	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	3	:zsh	1	:*	1	:/Users/feifan	1	zsh	:
+window	freelance	1	0	:	7c08,238x61,0,0[238x40,0,0,0,238x20,0,41,6]
+window	freelance	2	0	:-	ae3e,238x61,0,0{117x61,0,0,1,120x61,118,0,2}
+window	freelance	3	1	:*	b765,238x61,0,0,8
+state	freelance	

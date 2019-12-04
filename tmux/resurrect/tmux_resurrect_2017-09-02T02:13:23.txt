@@ -1,0 +1,4 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	git	:git grep oauth_token_getter
+window	freelance	1	1	:*	3ed3,372x94,0,0[372x70,0,0,0,372x23,0,71,3]
+state	freelance	

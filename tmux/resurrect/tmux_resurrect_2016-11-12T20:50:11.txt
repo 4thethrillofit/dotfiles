@@ -1,0 +1,8 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/middleman   
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	git	:git grep black
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp	1	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp/worker_pool	0	zsh	:
+window	freelance	1	1	:*	9ff2,206x56,0,0[206x31,0,0,2,206x24,0,32{103x24,0,32,3,102x24,104,32,4}]
+window	hobby	1	1	:*	3d25,235x60,0,0[235x44,0,0,0,235x15,0,45,1]
+state	freelance	

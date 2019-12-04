@@ -1,0 +1,11 @@
+pane	hobby	1	:front	0	:#	1	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:front	0	:#	2	:/Users/feifan/Documents/Projects/makers_weekly/feedly	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v feedly.rb
+pane	hobby	1	:front	0	:#	3	:/Users/feifan/Documents/Projects/makers_weekly/feedly	0	beam.smp	:/usr/local/Cellar/erlang/19.2.3/lib/erlang/erts-8.2.2/bin/beam.smp -- -root /usr/local/Cellar/erlang/19.2.3/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.4.2/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/mix/ebin -elixir ansi_enabled true -user Elixir.IEx.CLI -extra --no-halt --erl -user Elixir.IEx.CLI +iex -S mix
+pane	hobby	1	:front	0	:#	4	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v mix.exs
+pane	hobby	2	:node	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	hobby	2	:node	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	3	:zsh	1	:*	1	:/Users/feifan/Documents/Code/exercises	1	zsh	:
+window	hobby	1	0	:#	9da6,206x57,0,0{123x57,0,0[123x22,0,0,0,123x17,0,23,6,123x16,0,41,12],82x57,124,0,5}
+window	hobby	2	0	:#-	d4c2,206x57,0,0{103x57,0,0,9,102x57,104,0,10}
+window	hobby	3	1	:*	6600,206x57,0,0,11
+state	hobby	

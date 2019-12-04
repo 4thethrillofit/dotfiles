@@ -1,0 +1,14 @@
+pane	hobby	1	:zsh	1	:*M	1	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	1	:zsh	1	:*M	2	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	hobby	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/middleman-base	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v config.rb
+pane	ssauce	1	:ember	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails s
+pane	ssauce	3	:servers	0	:#	3	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	hobby	1	1	:*M	0086,238x60,0,0[238x44,0,0,0,238x15,0,45,2]
+window	hobby	2	0	:#-	b35e,238x60,0,0,1
+window	ssauce	1	1	:*	b361,238x60,0,0,4
+window	ssauce	2	0	:#-	b362,238x60,0,0,5
+window	ssauce	3	0	:#	4900,238x60,0,0{119x60,0,0,6,118x60,120,0[118x44,120,0,7,118x15,120,45,8]}
+state	ssauce	

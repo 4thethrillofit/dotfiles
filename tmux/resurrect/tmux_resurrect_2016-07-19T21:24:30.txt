@@ -1,0 +1,16 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Exercises/react/reduxtagram	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Exercises/react/reduxtagram	0	node	:npm  
+pane	ssauce	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+window	freelance	1	0	:-	f985,238x60,0,0[238x24,0,0,0,238x35,0,25,2]
+window	freelance	2	1	:*	b35e,238x60,0,0,1
+window	hobby	1	1	:*	7b9b,118x60,0,0[118x39,0,0,6,118x20,0,40,11]
+window	ssauce	1	0	:#	b2c1,118x60,0,0,4
+window	ssauce	2	0	:-	b2c5,118x60,0,0,8
+window	ssauce	3	1	:*	69eb,118x60,0,0{59x60,0,0,9,58x60,60,0,10}
+state	hobby	

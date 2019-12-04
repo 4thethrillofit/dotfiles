@@ -1,0 +1,4 @@
+pane	megatags	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+window	megatags	1	1	:*	b229,208x56,0,0[208x47,0,0,0,208x8,0,48,2]
+state	megatags	

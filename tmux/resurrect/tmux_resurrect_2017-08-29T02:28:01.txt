@@ -1,0 +1,5 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:sidekiq 4.1.4 atlas [0 of 25 busy]   
+window	freelance	1	1	:*	c244,297x75,0,0{148x75,0,0,0,148x75,149,0[148x36,149,0,1,148x38,149,37,2]}
+state	freelance	

@@ -1,0 +1,11 @@
+pane	ssauce	1	:front	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	2	:api	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/ninety_nine_bottles/lib	1	zsh	:
+pane	ssauce	3	:servers	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:#-	2	:/Users/feifan	0	zsh	:
+pane	ssauce	3	:servers	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#-	4	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	ssauce	1	0	:#	b1dd,235x60,0,0,0
+window	ssauce	2	1	:*	bcae,235x60,0,0[235x39,0,0,4,235x20,0,40,5]
+window	ssauce	3	0	:#-	6e5b,235x60,0,0{117x60,0,0[117x44,0,0,7,117x15,0,45,10],117x60,118,0[117x44,118,0,8,117x15,118,45,9]}
+state	ssauce	

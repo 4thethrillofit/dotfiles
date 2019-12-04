@@ -1,0 +1,12 @@
+pane	hobby	1	:awesome	1	:*	1	:/Users/feifan/Documents/Projects/awesomegrok	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:awesome	1	:*	2	:/Users/feifan/Documents/Projects/awesomegrok	0	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/middleman   
+pane	hobby	1	:awesome	1	:*	3	:/Users/feifan/Documents/Projects/awesomegrok	0	ruby	:ruby lib/github_client.rb
+pane	hobby	2	:Vim	0	:	1	:/Users/feifan/Documents/Projects/core15-local/core15_landing_page	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	3	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+window	hobby	1	1	:*	36a3,237x60,0,0[237x34,0,0,9,237x25,0,35{118x25,0,35,10,118x25,119,35,13}]
+window	hobby	2	0	:	59a0,237x60,0,0,11
+window	hobby	3	0	:#-	59a1,237x60,0,0,12
+window	megatags	1	1	:*	f5da,208x56,0,0[208x41,0,0,0,208x14,0,42,2]
+state	hobby	

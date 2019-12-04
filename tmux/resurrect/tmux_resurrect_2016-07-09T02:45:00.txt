@@ -1,0 +1,12 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/winston	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/winston	0	zsh	:
+pane	ssauce	1	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	hobby	1	1	:*	469d,238x59,0,0[238x45,0,0,6,238x13,0,46,7]
+window	ssauce	1	0	:#-	d55d,238x59,0,0,0
+window	ssauce	2	1	:*	0c11,238x59,0,0[238x34,0,0,1,238x24,0,35,3]
+window	ssauce	3	0	:#	557c,238x59,0,0{119x59,0,0,2,118x59,120,0,4}
+state	hobby	

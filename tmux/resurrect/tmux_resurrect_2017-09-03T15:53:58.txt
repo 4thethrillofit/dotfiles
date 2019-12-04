@@ -1,0 +1,5 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/Nectar/hellosign_test	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+window	freelance	1	0	:-	c89d,208x56,0,0,0
+window	freelance	2	1	:*	c89e,208x56,0,0,1
+state	freelance	

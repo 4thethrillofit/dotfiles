@@ -1,0 +1,10 @@
+pane	ssauce	1	:front	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:-	1	:/Users/feifan	1	zsh	:
+pane	ssauce	4	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	1	zsh	:
+pane	ssauce	4	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	zsh	:
+window	ssauce	1	0	:#	c35d,238x64,0,0,0
+window	ssauce	2	0	:#	c35e,238x64,0,0,1
+window	ssauce	3	0	:-	c35f,238x64,0,0,2
+window	ssauce	4	1	:*	1992,238x64,0,0[238x47,0,0,3,238x16,0,48,5]
+state	ssauce	

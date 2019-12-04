@@ -1,0 +1,17 @@
+pane	hobby	1	:heroku	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	1	heroku	:/Users/feifan/.heroku/heroku-cli run console -a boombox-production
+pane	hobby	1	:heroku	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site_old	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ember	1	:*	1	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ember	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	2	:api	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:api	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:servers	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#-	4	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	hobby	1	1	:*	a3c9,235x60,0,0[235x44,0,0,11,235x15,0,45,12]
+window	hobby	2	0	:#-	5922,235x60,0,0,13
+window	ssauce	1	1	:*	1ed9,235x60,0,0[235x44,0,0,0,235x15,0,45,10]
+window	ssauce	2	0	:#	3d2c,235x60,0,0[235x44,0,0,2,235x15,0,45,7]
+window	ssauce	3	0	:#-	386a,235x60,0,0{117x60,0,0[117x49,0,0,4,117x10,0,50,9],117x60,118,0[117x44,118,0,5,117x15,118,45,6]}
+state	hobby	

@@ -1,0 +1,4 @@
+pane	freelance	1	:[tmux]	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:[tmux]	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	git	:git grep ensure_external_id
+window	freelance	1	1	:*	99d7,208x53,0,0[208x42,0,0,0,208x10,0,43,1]
+state	freelance	

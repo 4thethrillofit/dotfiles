@@ -1,0 +1,7 @@
+pane	boombox	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+window	boombox	1	0	:-	8d06,238x60,0,0[238x34,0,0,0,238x25,0,35,3]
+window	boombox	2	1	:*	ef35,238x60,0,0{119x60,0,0,1,118x60,120,0,2}
+state	boombox	

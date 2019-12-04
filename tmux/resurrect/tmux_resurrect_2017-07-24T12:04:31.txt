@@ -1,0 +1,17 @@
+pane	freelance	1	:code	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:code	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:serverz	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:serverz	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:serverz	0	:#-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/SecondAct/landing_page	1	zsh	:
+pane	hobby	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	iconsentry	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/icon_sentry	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	iconsentry	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+pane	iconsentry	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/icon_sentry	1	zsh	:
+window	freelance	1	1	:*	f21e,185x52,0,0[185x40,0,0,0,185x11,0,41,22]
+window	freelance	2	0	:#-	95b5,185x52,0,0{94x52,0,0,1,90x52,95,0[90x30,95,0,2,90x21,95,31,23]}
+window	hobby	1	1	:*	dfe3,238x63,0,0,24
+window	hobby	2	0	:#-	dfe5,238x63,0,0,26
+window	iconsentry	1	1	:*	61fa,238x60,0,0[238x19,0,0,11,238x40,0,20,14]
+window	iconsentry	2	0	:-	59e4,238x60,0,0,15
+state	hobby	

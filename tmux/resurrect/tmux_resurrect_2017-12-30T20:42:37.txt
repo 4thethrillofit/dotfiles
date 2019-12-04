@@ -1,0 +1,3 @@
+pane	code	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/tradr	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+window	code	1	1	:*	d0fd,147x77,0,0,0
+state	code	

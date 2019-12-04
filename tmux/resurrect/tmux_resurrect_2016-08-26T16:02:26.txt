@@ -1,0 +1,5 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+pane	freelance	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+window	freelance	1	1	:*	e615,236x60,0,0[236x39,0,0,0,236x20,0,40{118x20,0,40,2,117x20,119,40,3}]
+state	freelance	

@@ -1,0 +1,4 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise/terraform/aws-standard	0	ruby	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Homebrew/Library/Homebrew/brew.rb upgrade
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise/terraform/aws-standard	1	zsh	:
+window	freelance	1	1	:*	43de,208x54,0,0{104x54,0,0,0,103x54,105,0,1}
+state	freelance	

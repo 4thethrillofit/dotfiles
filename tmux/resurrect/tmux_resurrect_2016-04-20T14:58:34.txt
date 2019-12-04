@@ -1,0 +1,10 @@
+pane	freelance	1	:heroku-cli	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	heroku-cli	:/Users/feifan/.heroku/heroku-cli run console -a pigeon-io
+pane	freelance	1	:heroku-cli	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	ssauce	1	:front	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:#-	1	:/Users/feifan	1	zsh	:
+window	freelance	1	1	:*	813f,238x64,0,0{119x64,0,0,6,118x64,120,0,7}
+window	ssauce	1	1	:*	c35d,238x64,0,0,0
+window	ssauce	2	0	:#	c35e,238x64,0,0,1
+window	ssauce	3	0	:#-	c35f,238x64,0,0,2
+state	freelance	

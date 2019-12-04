@@ -1,0 +1,5 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	git	:git grep rescue
+window	freelance	1	1	:*	8c12,615x84,0,0[615x62,0,0,0,615x21,0,63{178x21,0,63,1,436x21,179,63,2}]
+state	freelance	

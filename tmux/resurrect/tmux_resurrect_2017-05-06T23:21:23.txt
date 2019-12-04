@@ -1,0 +1,7 @@
+pane	freelance	1	:git	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	git	:git grep format.j
+pane	freelance	1	:git	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+window	freelance	1	1	:*	3d26,235x60,0,0[235x44,0,0,0,235x15,0,45,3]
+window	freelance	2	0	:#-	fa25,235x60,0,0{117x60,0,0,1,117x60,118,0,2}
+state	freelance	

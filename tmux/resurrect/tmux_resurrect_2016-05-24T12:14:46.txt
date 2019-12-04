@@ -1,0 +1,4 @@
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+window	ssauce	1	1	:*	0d06,238x60,0,0[238x34,0,0,0,238x25,0,35,2]
+state	ssauce	

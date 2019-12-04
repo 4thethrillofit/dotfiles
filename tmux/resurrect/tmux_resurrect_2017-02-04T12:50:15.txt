@@ -1,0 +1,6 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/CK/hub_2017	1	zsh	:
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+window	freelance	1	1	:*	c89f,208x56,0,0,2
+window	hobby	1	1	:*	75da,208x56,0,0[208x41,0,0,0,208x14,0,42,1]
+state	freelance	

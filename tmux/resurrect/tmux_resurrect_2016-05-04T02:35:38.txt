@@ -1,0 +1,12 @@
+pane	ssauce	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.2.3/bin/middleman
+pane	ssauce	1	:zsh	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:ruby	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:ruby	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails s -b 0.0.0.0
+pane	ssauce	3	:ruby	0	:#	3	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	ssauce	1	0	:#-	a1e2,235x61,0,0[235x45,0,0,0,235x15,0,46{117x15,0,46,1,117x15,118,46,3}]
+window	ssauce	2	1	:*	ac2c,235x61,0,0[235x50,0,0,2,235x10,0,51,7]
+window	ssauce	3	0	:#	c3ed,235x61,0,0{117x61,0,0,4,117x61,118,0[117x45,118,0,5,117x15,118,46,6]}
+state	ssauce	

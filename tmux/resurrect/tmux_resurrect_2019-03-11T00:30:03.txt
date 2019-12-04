@@ -1,0 +1,10 @@
+pane	code	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/residentx_umbrella	0	zsh	:
+pane	code	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/source_medium	1	zsh	:
+pane	code	2	:code	1	:*	1	:/Users/feifan/Documents/Projects/sm_umbrella	0	zsh	:
+pane	code	2	:code	1	:*	2	:/Users/feifan/Documents/Projects/sm_umbrella	0	zsh	:
+pane	code	2	:code	1	:*	3	:/Users/feifan/Documents/Projects/sm_umbrella	1	zsh	:
+pane	code	3	:Vim	0	:#	1	:/Users/feifan/Documents/Projects/source_medium	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+window	code	1	0	:-	4db8,185x51,0,0[185x33,0,0,4,185x17,0,34,6]
+window	code	2	1	:*	77bd,185x51,0,0[185x23,0,0{92x23,0,0,1,92x23,93,0,10},185x27,0,24,2]
+window	code	3	0	:#	b500,185x51,0,0,3
+state	code	

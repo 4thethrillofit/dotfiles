@@ -1,0 +1,4 @@
+pane	code	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/househawk	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+pane	code	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/househawk	0	beam.smp	:/usr/local/Cellar/erlang/21.2.1/lib/erlang/erts-10.2.1/bin/beam.smp -- -root /usr/local/Cellar/erlang/21.2.1/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.7.4/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.7.4/bin/../lib/mix/ebin -elixir ansi_enabled true -noshell -user Elixir.IEx.CLI -extra --no-halt --erl -noshell -user Elixir.IEx.CLI +iex -S mix
+window	code	1	1	:*	8129,208x54,0,0[208x46,0,0,1,208x7,0,47,2]
+state	code	

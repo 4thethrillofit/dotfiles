@@ -1,0 +1,5 @@
+pane	megatags	1	:node	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	megatags	1	:node	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:node	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	node	:npm  
+window	megatags	1	1	:*	c348,208x56,0,0[208x37,0,0{104x37,0,0,0,103x37,105,0,20},208x18,0,38,18]
+state	megatags	

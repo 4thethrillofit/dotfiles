@@ -1,0 +1,14 @@
+pane	boombox	1	:ember	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	1	:ember	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:api	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:ruby ./bin/rake s
+pane	boombox	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	node	:npm  
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	hobby	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	zsh	:
+window	boombox	1	1	:*	69cf,235x60,0,0[235x48,0,0,13,235x11,0,49,19]
+window	boombox	2	0	:#-	1b0f,235x60,0,0[235x34,0,0,14,235x25,0,35,17]
+window	boombox	3	0	:#	824d,235x60,0,0{117x60,0,0,15,117x60,118,0,16}
+window	hobby	1	1	:*	07a4,206x56,0,0[206x33,0,0,0,206x22,0,34{103x22,0,34,1,102x22,104,34,11}]
+state	boombox	

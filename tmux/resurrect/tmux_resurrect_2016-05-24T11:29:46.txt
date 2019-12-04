@@ -1,0 +1,4 @@
+pane	ssauce	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+window	ssauce	1	1	:*	0086,238x60,0,0[238x44,0,0,0,238x15,0,45,2]
+state	ssauce	

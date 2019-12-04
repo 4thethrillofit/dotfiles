@@ -1,0 +1,6 @@
+pane	hobby	1	:front	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:api	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	hobby	2	:api	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+window	hobby	1	1	:*	bb9d,206x53,0,0,0
+window	hobby	2	0	:-	96cf,206x53,0,0{103x53,0,0,1,102x53,104,0,3}
+state	hobby	

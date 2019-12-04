@@ -1,0 +1,9 @@
+pane	ssauce	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	ssauce	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:sidekiq 4.1.1 boombox_api [0 of 25 busy]       
+pane	ssauce	2	:ruby	0	:#-	2	:/Users/feifan	0	zsh	:
+pane	ssauce	2	:ruby	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+pane	ssauce	2	:ruby	0	:#-	4	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	ssauce	1	1	:*	cac5,236x60,0,0[236x34,0,0,0,236x25,0,35,2]
+window	ssauce	2	0	:#-	16ee,236x60,0,0{118x60,0,0[118x44,0,0,3,118x15,0,45,6],117x60,119,0[117x44,119,0,4,117x15,119,45,5]}
+state	ssauce	

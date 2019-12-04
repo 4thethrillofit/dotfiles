@@ -1,0 +1,20 @@
+pane	3	1	:zsh	1	:*	1	:/Users/feifan/.dotfiles	1	zsh	:
+pane	3	1	:zsh	1	:*	2	:/Users/feifan/.dotfiles	0	zsh	:
+pane	freelance	1	:rails	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:rails	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:server	0	:#-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails s
+pane	ssauce	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	2	:api	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	1	:*	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	1	:*	4	:/Users/feifan/Documents/Projects/core15-local/core15-ios-app	0	zsh	:
+window	3	1	1	:*	a610,238x64,0,0[238x41,0,0,3,238x22,0,42,4]
+window	freelance	1	1	:*	e611,238x60,0,0[238x33,0,0,5,238x26,0,34,6]
+window	freelance	2	0	:#-	b364,238x60,0,0,7
+window	ssauce	1	0	:#	d0a8,235x60,0,0[235x35,0,0,0,235x24,0,36,8]
+window	ssauce	2	0	:#-	6a14,235x60,0,0[235x45,0,0,17,235x14,0,46,9]
+window	ssauce	3	1	:*	0bcb,235x60,0,0{117x60,0,0[117x45,0,0,2,117x14,0,46,10],117x60,118,0[117x55,118,0,11,117x4,118,56,12]}
+state	ssauce	freelance

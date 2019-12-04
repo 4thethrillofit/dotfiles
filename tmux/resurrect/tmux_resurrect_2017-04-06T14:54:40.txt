@@ -1,0 +1,3 @@
+pane	freelance	1	:ssh	1	:*	1	:/Users/feifan	1	ssh	:ssh -i /Users/feifan/.ssh/gitlab.pem ubuntu@ec2-54-165-236-164.compute-1.amazonaws.com
+window	freelance	1	1	:*	bf9d,206x54,0,0,0
+state	freelance	

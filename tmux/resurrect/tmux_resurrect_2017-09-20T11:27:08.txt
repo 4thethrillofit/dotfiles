@@ -1,0 +1,6 @@
+pane	freelance	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v bitbucket-server.html.md
+window	freelance	1	0	:#-	21b2,166x46,0,0[166x32,0,0,0,166x13,0,33,1]
+window	freelance	2	1	:*	c702,166x46,0,0,5
+state	freelance	

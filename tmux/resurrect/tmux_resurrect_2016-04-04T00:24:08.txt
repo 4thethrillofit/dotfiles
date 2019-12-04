@@ -1,0 +1,18 @@
+pane	3	1	:zsh	1	:*	1	:/Users/feifan/.dotfiles	1	zsh	:
+pane	3	1	:zsh	1	:*	2	:/Users/feifan/.dotfiles	0	zsh	:
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	ssauce	1	:ft	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:ft	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	2	:bk	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:bk	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails c
+pane	ssauce	3	:serverz	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:serverz	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:sidekiq 4.1.1 boombox_api [0 of 25 busy] 
+pane	ssauce	3	:serverz	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails s
+pane	ssauce	3	:serverz	0	:#-	4	:/Users/feifan/Documents/Projects/core15-local/core15-ios-app	0	redis-server	:redis-server *:6379
+window	3	1	1	:*	7ebb,238x64,0,0[238x44,0,0,21,238x19,0,45,22]
+window	freelance	1	1	:*	f591,238x64,0,0{119x64,0,0,11,118x64,120,0,12}
+window	ssauce	1	0	:#	198e,238x64,0,0[238x47,0,0,0,238x16,0,48,9]
+window	ssauce	2	1	:*	a6ce,238x64,0,0[238x42,0,0,2,238x21,0,43,13]
+window	ssauce	3	0	:#-	ef0c,238x64,0,0{119x64,0,0[119x27,0,0,4,119x36,0,28,30],118x64,120,0[118x57,120,0,5,118x6,120,58,28]}
+state	ssauce	3

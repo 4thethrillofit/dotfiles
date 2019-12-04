@@ -1,0 +1,5 @@
+pane	freelance	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise/terraform/aws-standard	1	zsh	:
+pane	freelance	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/Terraform/terraform-enterprise	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+window	freelance	1	0	:-	bdfd,103x54,0,0,0
+window	freelance	2	1	:*	bdff,103x54,0,0,2
+state	freelance	

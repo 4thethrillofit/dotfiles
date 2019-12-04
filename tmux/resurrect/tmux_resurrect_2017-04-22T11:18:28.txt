@@ -1,0 +1,5 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test/docs	1	zsh	:
+pane	hobby	2	:[tmux]	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	1	zsh	:
+window	hobby	1	1	:*	aa1d,70x22,0,0,0
+window	hobby	2	0	:-	aa1e,70x22,0,0,1
+state	hobby	

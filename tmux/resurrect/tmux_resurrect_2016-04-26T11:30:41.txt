@@ -1,0 +1,19 @@
+pane	freelance	1	:app	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:app	0	:-	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:servers	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	hobby	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/rumbl	1	zsh	:
+pane	ssauce	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+window	freelance	1	0	:-	b516,238x61,0,0[238x35,0,0,6,238x25,0,36,9]
+window	freelance	2	1	:*	b765,238x61,0,0,8
+window	hobby	1	0	:-	0ec2,238x61,0,0[238x45,0,0,16,238x15,0,46,18]
+window	hobby	2	1	:*	5be4,238x61,0,0,15
+window	ssauce	1	0	:#-	b5dd,235x61,0,0,0
+window	ssauce	2	1	:*	165b,235x61,0,0[235x50,0,0,1,235x10,0,51,21]
+window	ssauce	3	0	:#	3faa,235x61,0,0{117x61,0,0,2,117x61,118,0,20}
+state	ssauce	freelance

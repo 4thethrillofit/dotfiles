@@ -1,0 +1,4 @@
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test/frontend	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+window	megatags	1	1	:*	f5da,208x56,0,0[208x41,0,0,0,208x14,0,42,2]
+state	megatags	

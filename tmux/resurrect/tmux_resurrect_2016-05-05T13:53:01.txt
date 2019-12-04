@@ -1,0 +1,10 @@
+pane	ssauce	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:zsh	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:zsh	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:zsh	0	:	3	:/Users/feifan	0	zsh	:
+window	ssauce	1	0	:-	b25d,236x60,0,0,0
+window	ssauce	2	1	:*	5e4c,236x60,0,0[236x44,0,0,2,236x15,0,45,7]
+window	ssauce	3	0	:	09ac,236x60,0,0{118x60,0,0,4,117x60,119,0[117x44,119,0,5,117x15,119,45,6]}
+state	ssauce	

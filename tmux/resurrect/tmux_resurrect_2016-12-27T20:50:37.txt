@@ -1,0 +1,19 @@
+pane	boombox	1	:ember	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	1	:ember	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	2	:api	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:api	0	:#-	3	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	3	:server	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	3	:server	1	:*	3	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	boombox	3	:server	1	:*	4	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags	0	zsh	:
+pane	megatags	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	megatags	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+window	boombox	1	0	:#	471c,206x56,0,0[206x32,0,0,0,206x23,0,33,5]
+window	boombox	2	0	:#-	54bc,206x56,0,0[206x36,0,0,1,206x19,0,37{104x19,0,37,4,101x19,105,37,10}]
+window	boombox	3	1	:*	d9a5,206x56,0,0{104x56,0,0,2,101x56,105,0[101x26,105,0,3,101x29,105,27{53x29,105,27,7,47x29,159,27,9}]}
+window	megatags	1	1	:*	1008,206x56,0,0[206x42,0,0,11,206x13,0,43{103x13,0,43,13,102x13,104,43,17}]
+window	megatags	2	0	:#-	6407,206x56,0,0,18
+state	megatags	

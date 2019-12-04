@@ -1,0 +1,18 @@
+pane	freelance	1	:app	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	zsh	:
+pane	freelance	1	:app	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	zsh	:
+pane	freelance	2	:servers	0	:-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.2.1/bin/ruby bin/rails s
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v gulpfile.js
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+pane	hobby	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/rumbl	1	zsh	:
+pane	ssauce	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan	1	zsh	:
+window	freelance	1	1	:*	de18,238x63,0,0[238x36,0,0,6,238x26,0,37,9]
+window	freelance	2	0	:-	bf65,238x63,0,0,8
+window	hobby	1	1	:*	5bcb,236x60,0,0[236x44,0,0{118x44,0,0,16,117x44,119,0,19},236x15,0,45,18]
+window	hobby	2	0	:#-	5964,236x60,0,0,15
+window	ssauce	1	0	:#-	b25d,236x60,0,0,0
+window	ssauce	2	1	:*	b25e,236x60,0,0,1
+window	ssauce	3	0	:#	b25f,236x60,0,0,2
+state	hobby	

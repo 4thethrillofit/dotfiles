@@ -1,0 +1,5 @@
+pane	megatags	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	1	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	ruby	:/Users/feifan/.rbenv/versions/2.4.0/bin/middleman   
+window	megatags	1	1	:*	6aa3,208x56,0,0[208x32,0,0,20,208x23,0,33{104x23,0,33,18,103x23,105,33,21}]
+state	megatags	

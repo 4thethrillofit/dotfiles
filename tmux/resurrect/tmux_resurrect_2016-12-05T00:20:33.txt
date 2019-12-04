@@ -1,0 +1,7 @@
+pane	boombox	1	:ember	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	2	:api	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	3	:server	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+window	boombox	1	0	:-	b5fd,316x80,0,0,0
+window	boombox	2	0	:	b5fe,316x80,0,0,1
+window	boombox	3	1	:*	b5ff,316x80,0,0,2
+state	boombox	

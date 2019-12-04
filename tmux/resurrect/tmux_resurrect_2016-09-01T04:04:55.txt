@@ -1,0 +1,5 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/middleman   
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	0	zsh	:
+window	freelance	1	1	:*	bb81,238x61,0,0[238x30,0,0,0,238x30,0,31{119x30,0,31,1,118x30,120,31,2}]
+state	freelance	

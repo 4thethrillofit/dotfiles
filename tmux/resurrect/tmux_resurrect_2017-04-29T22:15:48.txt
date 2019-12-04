@@ -1,0 +1,15 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	2	:ruby	0	:#-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	sourcemedium	1	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	sourcemedium	1	:Vim	0	:-	2	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	0	node	:node /usr/local/bin/yarn run chrome-watch
+pane	sourcemedium	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/SourceMedium	1	zsh	:
+pane	sourcemedium	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/SourceMedium/react-chrome-extension-boilerplate	0	zsh	:
+window	freelance	1	1	:*	c430,235x60,0,0[235x43,0,0,8,235x16,0,44{117x16,0,44,12,117x16,118,44,13}]
+window	freelance	2	0	:#-	75e5,235x60,0,0{117x60,0,0,9,117x60,118,0[117x23,118,0,10,117x36,118,24,11]}
+window	sourcemedium	1	0	:-	9ba6,206x53,0,0[206x34,0,0,6,206x18,0,35,7]
+window	sourcemedium	2	1	:*	77a6,206x53,0,0[206x39,0,0,14,206x13,0,40,15]
+state	freelance	

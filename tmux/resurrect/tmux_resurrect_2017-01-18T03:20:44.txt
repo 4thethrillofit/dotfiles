@@ -1,0 +1,7 @@
+pane	hobby	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	hobby	2	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/flatiron/drom	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	2	:Vim	1	:*	2	:/Users/feifan/Documents/Code/exercises/flatiron/drom	0	zsh	:
+window	hobby	1	0	:#-	09a6,118x59,0,0[118x35,0,0,0,118x23,0,36,1]
+window	hobby	2	1	:*	4f31,118x59,0,0[118x43,0,0,4,118x15,0,44,8]
+state	hobby	

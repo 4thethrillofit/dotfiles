@@ -1,0 +1,7 @@
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	1	zsh	:
+pane	ssauce	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.2.3/bin/middleman
+pane	ssauce	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	zsh	:
+pane	ssauce	2	:Vim	0	:-	1	:/Users/feifan/Documents/Projects/neo/spruce/spruce	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+window	ssauce	1	1	:*	4dff,238x60,0,0[238x44,0,0,0,238x15,0,45{119x15,0,45,1,118x15,120,45,3}]
+window	ssauce	2	0	:-	b35f,238x60,0,0,2
+state	ssauce	

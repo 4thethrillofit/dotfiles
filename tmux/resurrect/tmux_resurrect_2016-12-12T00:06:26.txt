@@ -1,0 +1,11 @@
+pane	boombox	1	:ember	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	1	:ember	0	:	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	git	:git grep loadStripe
+pane	boombox	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	2	:api	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	3	:server	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:ruby ./bin/rake s
+pane	boombox	3	:server	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	boombox	3	:server	0	:#-	3	:/Users/feifan/Documents/Projects/personal_site	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.3.0/bin/middleman
+window	boombox	1	0	:	6f1d,206x57,0,0[206x33,0,0,0,206x23,0,34,5]
+window	boombox	2	1	:*	949f,206x57,0,0[206x37,0,0,1,206x19,0,38,4]
+window	boombox	3	0	:#-	221e,206x57,0,0{103x57,0,0,2,102x57,104,0[102x27,104,0,3,102x29,104,28,7]}
+state	boombox	

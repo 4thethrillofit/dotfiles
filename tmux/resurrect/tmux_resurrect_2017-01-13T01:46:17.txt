@@ -1,0 +1,13 @@
+pane	lovefund	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	lovefund	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	lovefund	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/freelance/healthy_maven/healthy_maven	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v config.r
+pane	megatags	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	zsh	:
+pane	megatags	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	megatags	1	:zsh	0	:#-	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	node	:npm  
+pane	megatags	2	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/flatiron/drom	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	2	:Vim	1	:*	2	:/Users/feifan/Documents/Code/exercises/flatiron/drom	0	zsh	:zsh
+window	lovefund	1	1	:*	6a27,388x62,0,0[388x34,0,0,3,388x27,0,35,4]
+window	lovefund	2	0	:#-	bcc2,388x62,0,0,5
+window	megatags	1	0	:#-	7e4a,340x58,0,0[340x41,0,0,0,340x16,0,42{171x16,0,42,1,168x16,172,42,2}]
+window	megatags	2	1	:*	68f6,340x58,0,0[340x36,0,0,7,340x21,0,37,9]
+state	megatags	

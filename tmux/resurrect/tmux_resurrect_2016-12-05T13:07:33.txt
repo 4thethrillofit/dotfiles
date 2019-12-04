@@ -1,0 +1,10 @@
+pane	boombox	1	:ember	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	1	:ember	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	git	:git grep pricing
+pane	boombox	2	:api	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	2	:api	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:server	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:ruby ./bin/rake s
+pane	boombox	3	:server	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+window	boombox	1	1	:*	829d,206x57,0,0[206x43,0,0,0,206x13,0,44,5]
+window	boombox	2	0	:#	2eb0,206x57,0,0[206x47,0,0,1,206x9,0,48,4]
+window	boombox	3	0	:#-	a8d2,206x57,0,0{103x57,0,0,2,102x57,104,0,3}
+state	boombox	

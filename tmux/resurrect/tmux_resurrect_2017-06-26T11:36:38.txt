@@ -1,0 +1,11 @@
+pane	freelance	1	:code	0	:#	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v Gemfile
+pane	freelance	1	:code	0	:#	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	1	:code	0	:#	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:serverz	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:serverz	0	:-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	3	:bitbucket	1	:*	1	:/Users/feifan/Atlassian/Bitbucket/5.1.0	0	zsh	:
+pane	freelance	3	:bitbucket	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlassian-oauth-examples/ruby	1	ruby	:/Users/feifan/.rbenv/versions/2.4.1/bin/rackup   
+window	freelance	1	0	:#	a72c,238x60,0,0[238x39,0,0,0,238x20,0,40{119x20,0,40,3,118x20,120,40,5}]
+window	freelance	2	0	:-	ef35,238x60,0,0{119x60,0,0,1,118x60,120,0,2}
+window	freelance	3	1	:*	ef3a,238x60,0,0{119x60,0,0,4,118x60,120,0,6}
+state	freelance	

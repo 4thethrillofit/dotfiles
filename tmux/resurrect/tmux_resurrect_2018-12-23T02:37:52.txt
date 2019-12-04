@@ -1,0 +1,4 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Code	1	zsh	:
+pane	code	1	:zsh	1	:*	2	:/Users/feifan	0	zsh	:
+window	code	1	1	:*	11b6,181x85,0,0[181x57,0,0,1,181x27,0,58,2]
+state	code	

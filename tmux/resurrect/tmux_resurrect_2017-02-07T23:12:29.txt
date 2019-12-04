@@ -1,0 +1,8 @@
+pane	megatags	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test/frontend	0	zsh	:
+pane	megatags	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega_test/frontend	1	zsh	:
+pane	megatags	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	megatags	2	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+window	megatags	1	0	:-	e25a,208x56,0,0[208x31,0,0,0,208x24,0,32,2]
+window	megatags	2	1	:*	dfc9,208x56,0,0[208x41,0,0,3,208x14,0,42{104x14,0,42,4,103x14,105,42,5}]
+state	megatags	

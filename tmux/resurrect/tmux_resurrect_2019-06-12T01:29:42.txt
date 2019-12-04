@@ -1,0 +1,6 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/sm_bot	0	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+pane	code	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/sm_bot	1	zsh	:
+pane	code	2	:Vim	0	:#-	1	:/Users/feifan/Documents/Projects/sm_bot	1	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .
+window	code	1	1	:*	8230,101x54,0,0[101x25,0,0,0,101x28,0,26,2]
+window	code	2	0	:#-	bcfe,101x54,0,0,1
+state	code	

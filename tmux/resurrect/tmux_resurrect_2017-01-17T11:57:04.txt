@@ -1,0 +1,7 @@
+pane	hobby	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/core15-local/core15-ios-app	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	3	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	2	:lldb	1	:*	1	:/Users/feifan/Documents/Code/exercises/flatiron/drom	1	lldb	:/Applications/Xcode.app/Contents/Developer/usr/bin/lldb --repl=-target x86_64-apple-macosx10.9 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk -color-diagnostics
+window	hobby	1	0	:#-	e6ee,208x57,0,0[208x34,0,0{104x34,0,0,0,103x34,105,0,3},208x22,0,35,1]
+window	hobby	2	1	:*	cca1,208x57,0,0,4
+state	hobby	

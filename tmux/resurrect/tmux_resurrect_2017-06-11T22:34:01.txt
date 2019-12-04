@@ -1,0 +1,7 @@
+pane	boombox	1	:bash	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	1	:bash	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	bash	:/bin/bash /usr/local/bin/brew tap paritytech/paritytech
+pane	boombox	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+window	boombox	1	1	:*	501e,118x60,0,0[118x24,0,0,0,118x35,0,25,3]
+window	boombox	2	0	:#-	530a,118x60,0,0{59x60,0,0,1,58x60,60,0,2}
+state	boombox	

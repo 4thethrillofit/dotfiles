@@ -1,0 +1,8 @@
+pane	freelance	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp	0	zsh	:
+pane	freelance	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp	1	zsh	:
+pane	freelance	1	:zsh	0	:#-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	1	:zsh	0	:#-	4	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:sidekiq 4.1.4 atlas [0 of 25 busy]   
+pane	freelance	2	:ssh	1	:*	1	:/Users/feifan	1	ssh	:ssh fei.tfe.zone
+window	freelance	1	0	:#-	f16a,238x73,0,0{172x73,0,0[172x36,0,0,0,172x36,0,37,3],65x73,173,0[65x56,173,0,1,65x16,173,57,2]}
+window	freelance	2	1	:*	c162,238x73,0,0,5
+state	freelance	

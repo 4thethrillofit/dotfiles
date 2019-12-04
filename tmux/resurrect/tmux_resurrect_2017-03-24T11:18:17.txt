@@ -1,0 +1,5 @@
+pane	hobby	1	:front	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	hobby	2	:api	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+window	hobby	1	0	:#-	b3fd,183x51,0,0,0
+window	hobby	2	1	:*	b400,183x51,0,0,3
+state	hobby	

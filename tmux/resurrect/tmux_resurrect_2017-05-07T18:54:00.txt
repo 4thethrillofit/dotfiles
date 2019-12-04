@@ -1,0 +1,7 @@
+pane	freelance	1	:git	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	git	:git grep def active?
+pane	freelance	1	:git	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+pane	freelance	2	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+window	freelance	1	0	:#-	d025,235x60,0,0[235x49,0,0,0,235x10,0,50,3]
+window	freelance	2	1	:*	fa25,235x60,0,0{117x60,0,0,1,117x60,118,0,2}
+state	freelance	

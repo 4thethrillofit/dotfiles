@@ -1,0 +1,21 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	zsh	:
+pane	freelance	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	redis-server	:redis-server
+pane	freelance	2	:zsh	0	:#-	3	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	hobby	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	1	zsh	:
+pane	hobby	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/mega-tags-all/shopify/shopify_test	0	zsh	:
+pane	hobby	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	sourcemedium	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	sourcemedium	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/SourceMedium/browser_plugin	0	node	:node /usr/local/bin/yarn run chrome-watch
+pane	sourcemedium	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/SourceMedium	1	zsh	:
+pane	sourcemedium	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/SourceMedium/react-chrome-extension-boilerplate	0	zsh	:
+window	freelance	1	1	:*	3372,115x60,0,0[115x43,0,0,8,115x16,0,44{57x16,0,44,12,57x16,58,44,13}]
+window	freelance	2	0	:#-	459a,115x60,0,0{57x60,0,0,9,57x60,58,0[57x23,58,0,10,57x36,58,24,11]}
+window	hobby	1	0	:#-	2b34,101x56,0,0[101x26,0,0,0,101x29,0,27,5]
+window	hobby	2	1	:*	b6c1,101x56,0,0{68x56,0,0,2,32x56,69,0,3}
+window	sourcemedium	1	1	:*	edbd,101x53,0,0[101x34,0,0,6,101x18,0,35,7]
+window	sourcemedium	2	0	:#-	4c02,101x53,0,0[101x39,0,0,14,101x13,0,40,15]
+state	sourcemedium	

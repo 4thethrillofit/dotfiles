@@ -1,0 +1,9 @@
+pane	code	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/residentx_umbrella	0	zsh	:
+pane	code	1	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/source_medium	1	zsh	:
+pane	code	2	:code	1	:*	1	:/Users/feifan/Documents/Projects/residentx_umbrella	1	beam.smp	:/usr/local/Cellar/erlang/21.2.4/lib/erlang/erts-10.2.3/bin/beam.smp -- -root /usr/local/Cellar/erlang/21.2.4/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.8.1/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.8.1/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.8.1/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.8.1/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.8.1/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.8.1/bin/../lib/mix/ebin -elixir ansi_enabled true -noshell -user Elixir.IEx.CLI -extra --no-halt --erl -noshell -user Elixir.IEx.CLI +iex -S mix
+pane	code	2	:code	1	:*	2	:/Users/feifan/Documents/Projects/residentx_umbrella	0	Vim	:/usr/local/Cellar/macvim/8.0-144/MacVim.app/Contents/bin/../MacOS/Vim -g -v .iex.exs
+pane	code	3	:zsh	0	:#	1	:/Users/feifan/Documents/Code/pragstudio-elixir-code	1	zsh	:
+window	code	1	0	:#-	ecf3,92x51,0,0[92x33,0,0,4,92x17,0,34,6]
+window	code	2	1	:*	ece5,92x51,0,0[92x33,0,0,1,92x17,0,34,2]
+window	code	3	0	:#	ada0,92x51,0,0,3
+state	code	

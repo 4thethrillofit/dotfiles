@@ -1,0 +1,4 @@
+pane	hobby	1	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:Vim	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/otp/learn_otp	0	zsh	:
+window	hobby	1	1	:*	9fcc,140x60,0,0[140x44,0,0,0,140x15,0,45,1]
+state	hobby	

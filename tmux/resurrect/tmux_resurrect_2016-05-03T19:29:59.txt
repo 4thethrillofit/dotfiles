@@ -1,0 +1,12 @@
+pane	ssauce	1	:Vim	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	1	:Vim	0	:	2	:/Users/feifan/Documents/Projects/ssauce/secret-sauce-blog	0	ruby	:ruby /Users/feifan/.rbenv/versions/2.2.3/bin/middleman
+pane	ssauce	1	:Vim	0	:	3	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails c
+pane	ssauce	3	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:ruby	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails s -b 0.0.0.0
+pane	ssauce	3	:ruby	0	:#-	3	:/Users/feifan	0	redis-server	:redis-server *:6379
+window	ssauce	1	0	:	ae09,238x61,0,0[238x45,0,0,0,238x15,0,46{119x15,0,46,1,118x15,120,46,3}]
+window	ssauce	2	1	:*	c08d,238x61,0,0[238x45,0,0,2,238x15,0,46,7]
+window	ssauce	3	0	:#-	6b39,238x61,0,0{119x61,0,0,4,118x61,120,0[118x45,120,0,5,118x15,120,46,6]}
+state	ssauce	

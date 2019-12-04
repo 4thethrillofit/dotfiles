@@ -1,0 +1,3 @@
+pane	freelance	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/freelance/CK/hub_2017	1	zsh	:
+window	freelance	1	1	:*	d7fd,316x79,0,0,0
+state	freelance	

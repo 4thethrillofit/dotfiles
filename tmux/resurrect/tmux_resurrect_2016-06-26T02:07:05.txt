@@ -1,0 +1,9 @@
+pane	ssauce	1	:zsh	0	:	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	node	:npm  
+pane	ssauce	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	ssauce	1	0	:	b75d,238x61,0,0,0
+window	ssauce	2	0	:-	fc08,238x61,0,0[238x40,0,0,1,238x20,0,41,3]
+window	ssauce	3	1	:*	73b8,238x61,0,0{119x61,0,0,2,118x61,120,0,4}
+state	ssauce	

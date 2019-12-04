@@ -1,0 +1,12 @@
+pane	hobby	1	:beam.smp	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/winston	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	hobby	1	:beam.smp	1	:*	2	:/Users/feifan/Documents/Code/exercises/elixir/winston	1	beam.smp	:/usr/local/Cellar/erlang/18.3/lib/erlang/erts-7.3/bin/beam.smp -- -root /usr/local/Cellar/erlang/18.3/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.2.4/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.2.4/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.2.4/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.2.4/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.2.4/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.2.4/bin/../lib/mix/ebin -elixir ansi_enabled true -user Elixir.IEx.CLI -extra --no-halt --erl -user Elixir.IEx.CLI +iex -S mix
+pane	ssauce	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	ssauce	2	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:servers	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	ssauce	3	:servers	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s -b 0.0.0.0
+window	hobby	1	1	:*	db14,238x60,0,0[238x36,0,0,6,238x23,0,37,7]
+window	ssauce	1	1	:*	b35d,238x60,0,0,0
+window	ssauce	2	0	:#-	0488,238x60,0,0[238x40,0,0,1,238x19,0,41,3]
+window	ssauce	3	0	:#	ef37,238x60,0,0{119x60,0,0,2,118x60,120,0,4}
+state	hobby	

@@ -1,0 +1,6 @@
+pane	freelance	1	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails c
+pane	freelance	2	:ruby	0	:#-	1	:/Users/feifan/Documents/Projects/pigeon/pigeonapp	1	ruby	:puma 3.4.0 (tcp://localhost:3000) [pigeonapp]  
+window	freelance	1	1	:*	f985,238x60,0,0[238x24,0,0,0,238x35,0,25,2]
+window	freelance	2	0	:#-	b35e,238x60,0,0,1
+state	freelance	

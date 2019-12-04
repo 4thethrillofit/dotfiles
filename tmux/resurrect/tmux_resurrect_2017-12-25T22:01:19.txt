@@ -1,0 +1,4 @@
+pane	code	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/tradr	1	zsh	:
+pane	code	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/tradr	0	zsh	:
+window	code	1	1	:*	41f3,164x85,0,0[164x63,0,0,0,164x21,0,64,1]
+state	code	

@@ -1,0 +1,10 @@
+pane	ssauce	1	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	2	:ruby	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	ssauce	2	:ruby	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	ruby	:/Users/feifan/.rbenv/versions/2.3.0/bin/ruby bin/rails c
+pane	ssauce	3	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	ssauce	3	:zsh	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	ssauce	3	:zsh	0	:#	3	:/Users/feifan	0	zsh	:
+window	ssauce	1	0	:#-	b1dd,235x60,0,0,0
+window	ssauce	2	1	:*	bcab,235x60,0,0[235x39,0,0,2,235x20,0,40,7]
+window	ssauce	3	0	:#	a1ab,235x60,0,0{117x60,0,0,4,117x60,118,0[117x44,118,0,5,117x15,118,45,6]}
+state	ssauce	

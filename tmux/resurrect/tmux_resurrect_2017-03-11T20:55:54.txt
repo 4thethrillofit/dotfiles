@@ -1,0 +1,15 @@
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	megatags	1	:Vim	0	:	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	1	:Vim	0	:	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	1	:Vim	0	:	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	2	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	megatags	2	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/love_fund	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/rake   
+pane	megatags	2	:zsh	0	:-	3	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	3	:beam.smp	1	:*	1	:/Users/feifan/Documents/Projects/BICEP/printful	0	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	megatags	3	:beam.smp	1	:*	2	:/Users/feifan/Documents/Projects/BICEP/printful	1	beam.smp	:/usr/local/Cellar/erlang/19.2.3/lib/erlang/erts-8.2.2/bin/beam.smp -- -root /usr/local/Cellar/erlang/19.2.3/lib/erlang -progname erl -- -home /Users/feifan -- -pa /usr/local/Cellar/elixir/1.4.2/bin/../lib/eex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/elixir/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/ex_unit/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/iex/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/logger/ebin /usr/local/Cellar/elixir/1.4.2/bin/../lib/mix/ebin -elixir ansi_enabled true -user Elixir.IEx.CLI -extra --no-halt --erl -user Elixir.IEx.CLI +iex -S mix
+window	hobby	1	1	:*	3cc4,238x60,0,0[238x44,0,0,37,238x15,0,45,38]
+window	megatags	1	0	:	aa81,236x61,0,0[236x47,0,0,20,236x13,0,48{117x13,0,48,18,118x13,118,48,21}]
+window	megatags	2	0	:-	97f9,236x61,0,0[236x45,0,0,35,236x15,0,46{118x15,0,46,43,117x15,119,46,44}]
+window	megatags	3	1	:*	61e2,236x61,0,0[236x40,0,0,45,236x20,0,41,47]
+state	megatags	

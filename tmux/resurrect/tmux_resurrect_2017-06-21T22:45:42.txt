@@ -1,0 +1,12 @@
+pane	boombox	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	2	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	2	:redis-server	0	:#-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	redis-server	:redis-server
+pane	freelance	2	:redis-server	0	:#-	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+window	boombox	1	0	:-	b35d,238x60,0,0,0
+window	boombox	2	1	:*	ef35,238x60,0,0{119x60,0,0,1,118x60,120,0,2}
+window	freelance	1	1	:*	a08f,238x60,0,0[238x44,0,0,4,238x15,0,45,5]
+window	freelance	2	0	:#-	6f3d,238x60,0,0{119x60,0,0,6,118x60,120,0,7}
+state	freelance	

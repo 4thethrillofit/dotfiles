@@ -1,0 +1,23 @@
+pane	boombox	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	boombox	2	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	3	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	1	zsh	:
+pane	boombox	3	:zsh	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	hobby	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/personal_site	0	zsh	:
+pane	hobby	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/personal_site	1	zsh	:
+pane	megatags	1	:zsh	1	:*	1	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	1	zsh	:
+pane	megatags	1	:zsh	1	:*	2	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	1	:zsh	1	:*	3	:/Users/feifan/Documents/Projects/mega-tags-all/midman/megatags	0	zsh	:
+pane	megatags	2	:zsh	0	:#	1	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	2	:zsh	0	:#	2	:/Users/feifan/Documents/Projects/love_fund	1	zsh	:
+pane	megatags	2	:zsh	0	:#	3	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	megatags	3	:zsh	0	:#-	1	:/Users/feifan/Documents/Projects/makers_weekly/feed_parser	1	zsh	:
+pane	megatags	3	:zsh	0	:#-	2	:/Users/feifan/Documents/Projects/BICEP/printful	0	zsh	:
+window	boombox	1	0	:-	dc09,206x52,0,0,49
+window	boombox	2	1	:*	aa3b,206x52,0,0[206x49,0,0,51,206x2,0,50,54]
+window	boombox	3	0	:#	9f70,206x52,0,0{103x52,0,0,52,102x52,104,0,53}
+window	hobby	1	1	:*	3cc4,238x60,0,0[238x44,0,0,37,238x15,0,45,38]
+window	megatags	1	1	:*	6044,235x59,0,0[235x45,0,0,20,235x13,0,46{116x13,0,46,18,118x13,117,46,21}]
+window	megatags	2	0	:#	4dbc,235x59,0,0[235x43,0,0,35,235x15,0,44{117x15,0,44,43,117x15,118,44,44}]
+window	megatags	3	0	:#-	c094,235x59,0,0[235x38,0,0,45,235x20,0,39,47]
+state	boombox	

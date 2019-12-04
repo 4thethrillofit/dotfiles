@@ -1,0 +1,3 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Code/exercises/elixir/rumbl	1	Vim	:/usr/local/Cellar/macvim/7.4-100/MacVim.app/Contents/MacOS/Vim -g -v .
+window	freelance	1	1	:*	cc9d,208x57,0,0,0
+state	freelance	

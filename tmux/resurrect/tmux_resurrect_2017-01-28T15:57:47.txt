@@ -1,0 +1,18 @@
+pane	boombox	1	:ember	0	:#-	1	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	boombox	1	:ember	0	:#-	2	:/Users/feifan/Documents/Projects/boombox/prerender	1	zsh	:
+pane	boombox	2	:api	0	:#	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	2	:api	0	:#	2	:/Users/feifan/Documents/Projects/boombox/boombox_api	0	zsh	:
+pane	boombox	3	:servers	1	:*	1	:/Users/feifan/Documents/Projects/boombox/boombox_api	1	zsh	:
+pane	boombox	3	:servers	1	:*	2	:/Users/feifan/Documents/Projects/boombox/boombox-frontend	0	zsh	:
+pane	hobby	1	:zsh	0	:-	1	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	hobby	1	:zsh	0	:-	2	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	0	zsh	:
+pane	hobby	1	:zsh	0	:-	3	:/Users/feifan/Documents/Projects/mega-tags-all/mega-tags	1	zsh	:
+pane	hobby	2	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/love_fund	1	Vim	:/usr/local/Cellar/macvim/8.0-110/MacVim.app/Contents/MacOS/Vim -g -v brunch-config.js
+pane	hobby	2	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/love_fund	0	zsh	:
+pane	hobby	2	:Vim	1	:*	3	:/Users/feifan/Documents/Projects/love_fund	0	ruby	:/Users/feifan/.rbenv/versions/2.3.3/bin/middleman   
+window	boombox	1	0	:#-	08af,237x60,0,0[237x13,0,0,13,237x46,0,14,19]
+window	boombox	2	0	:#	2baf,237x60,0,0[237x34,0,0,14,237x25,0,35,17]
+window	boombox	3	1	:*	8e75,237x60,0,0{118x60,0,0,15,118x60,119,0,16}
+window	hobby	1	0	:-	11af,208x56,0,0[208x33,0,0,0,208x22,0,34{104x22,0,34,1,103x22,105,34,11}]
+window	hobby	2	1	:*	f6b0,208x56,0,0[208x36,0,0,21,208x19,0,37{104x19,0,37,23,103x19,105,37,24}]
+state	hobby	

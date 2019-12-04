@@ -1,0 +1,7 @@
+pane	freelance	1	:Vim	1	:*	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	Vim	:/usr/local/Cellar/macvim/8.0-131/MacVim.app/Contents/MacOS/Vim -g -v .
+pane	freelance	1	:Vim	1	:*	2	:/Users/feifan/Documents/Projects/HashiCorp/atlas	0	zsh	:
+pane	freelance	1	:Vim	1	:*	3	:/Users/feifan/Atlassian/Bitbucket/5.1.0	0	zsh	:
+pane	freelance	2	:ruby	0	:-	1	:/Users/feifan/Documents/Projects/HashiCorp/atlas	1	ruby	:/Users/feifan/.rbenv/versions/2.3.1/bin/ruby bin/rails s
+window	freelance	1	1	:*	48ed,206x53,0,0[206x42,0,0,0,206x10,0,43{103x10,0,43,1,102x10,104,43,9}]
+window	freelance	2	0	:-	bba2,206x53,0,0,5
+state	freelance	
