@@ -106,7 +106,7 @@ let g:ctrlp_working_path_mode = 0
 let g:ctrlp_match_window_reversed = 0
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
-let g:ctrlp_custom_ignore = 'node_modules\|bower_components\|gulp_dist\|DS_Store\|build\|git\|yarn_cache'
+let g:ctrlp_custom_ignore = 'node_modules\|bower_components\|gulp_dist\|DS_Store\|build\|git\|yarn_cache\|deps\|_build'
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip
 
 "autocmd vimenter * NERDTree "autoloads nerdtree upon startup
