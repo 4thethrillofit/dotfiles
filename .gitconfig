@@ -1,27 +1,28 @@
 [user]
-	name = Feifan Wang
-	email = feifanw@gmail.com
+  name = Feifan Wang
+  email = feifanw@gmail.com
 [core]
 	autocrlf = input
-	safecrlf = warn
-	editor = vim
-	excludesfile = /Users/feifan/.gitignore_global
+  safecrlf = warn
+  editor = vim
+  excludesfile = /Users/feifan/.gitignore_global
+  whitespace = nowarn
 [color]
-	ui = true
+  ui = true
 [branch]
-	autoresetrebase = always
+  autoresetrebase = always
 [alias]
-	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-	co = checkout
-	mylog = log --pretty=format:'%h %s [%an]' --graph
-	st = status
-	br = branch
-	ci = commit
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  co = checkout
+  mylog = log --pretty=format:'%h %s [%an]' --graph
+  st = status
+  br = branch
+  ci = commit
   sm = submodule
 [merge]
-	tool = opendiff
+  tool = opendiff
 [push]
-	default = current
+  default = current
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -29,7 +30,7 @@
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [filter "media"]
-	clean = git-media-clean %f
-	smudge = git-media-smudge %f
+  clean = git-media-clean %f
+  smudge = git-media-smudge %f
 [url "https://"]
 [url "https://"]

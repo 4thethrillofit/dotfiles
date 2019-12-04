@@ -85,7 +85,6 @@
 /Movies
 /Music
 /Pictures
-/Public
 /Sites
 /bin/rvm
 /bin/rvm-auto-ruby
@@ -99,13 +98,11 @@
 /gmail-archive.sparsebundle
 /media
 /misc.sparsebundle
-/notes
 /papers
 /proj
 /reference
 /screencasts
 /share/man
-/src
 /talks
 /var
 /work
@@ -119,4 +116,11 @@
 .env.*
 *.swp
 *.swo
+*.swn
+*.swm
+*.swl
 xcuserdata/
+.otto/*
+/coverage
+/tmp
+/node_modules
